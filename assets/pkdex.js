@@ -279,7 +279,7 @@ var arbok = {
     "icon": "<i class='pk arbok'></i>"
 }; pokemon.push(arbok);
 
-var  = arcanine{
+var   arcanine ={
     "ou": true,
     "uu": false,
     "ru": false,
@@ -336,7 +336,7 @@ var  ariados= {
     "icon": "<i class='pk ariados'></i>"
 }; pokemon.push(ariados);
 
-var  = armaldo{
+var   armaldo = {
     "ou": true,
     "uu": false,
     "ru": false,
@@ -350,7 +350,7 @@ var  = armaldo{
     "icon": "<i class='pk armaldo'></i>"
 }; pokemon.push(armaldo);
 
-var  = aromatisse{
+var   aromatisse = {
     "ou": true,
     "uu": false,
     "ru": false,
@@ -364,7 +364,7 @@ var  = aromatisse{
     "icon": "<i class='pk aromatisse'></i>"
 }; pokemon.push(aromatisse);
 
-var  = articuno{
+var  articuno = {
     "ou": true,
     "uu": false,
     "ru": false,
@@ -378,7 +378,7 @@ var  = articuno{
     "icon": "<i class='pk articuno'></i>"
 }; pokemon.push(articuno);
 
-var  = audino{
+var  audino = {
     "ou": true,
     "uu": false,
     "ru": false,
