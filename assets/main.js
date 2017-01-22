@@ -7,7 +7,7 @@ var dis = document.getElementById('display');
 
 function loadPKMN(i){
 
-$("#display").append(pokemon[i].icon).hide().fadeIn(1000);
+$("#display").append(pokemon[i].icon).hide().fadeIn(500);
 
 };
 

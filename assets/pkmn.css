@@ -42,7 +42,7 @@ background: url(../dex/aggron.png);
 }
 
 .aggron-mega {
-background: url(../dex/abomasnow.png);
+background: url(../dex/aggron-mega.png);
 }
 
 .alakazam {
@@ -1025,11 +1025,11 @@ background: url(../dex/oranguru.png);
 .oricorio{
 background: url(../dex/oricorio.png);
 }
-.oricorio-pa-u{
-background: url(../dex/oricorio-pa-u.png);
+.oricorio-pau{
+background: url(../dex/oricorio-pau.png);
 }
-.oricorio-pom-pom{
-background: url(../dex/oricorio-pom-pom.png);
+.oricorio-pom{
+background: url(../dex/oricorio-pom.png);
 }
 .oricorio-sensu{
 background: url(../dex/oricorio-sensu.png);
@@ -1337,4 +1337,283 @@ background: url(../dex/solgaleo.png);
 }
 .solrock{
 background: url(../dex/solrock.png);
+}
+.spinda{
+background: url(../dex/spinda.png);
+}
+.spiritomb{
+background: url(../dex/spiritomb.png);
+}
+.stantler{
+background: url(../dex/stantler.png);
+}
+.staraptor{
+background: url(../dex/staraptor.png);
+}
+.starmie{
+background: url(../dex/starmie.png);
+}
+.steelix{
+background: url(../dex/steelix.png);
+}
+.steelix-mega{
+background: url(../dex/steelix-mega.png);
+}
+.stoutland{
+background: url(../dex/stoutland.png);
+}
+.stunfisk{
+background: url(../dex/stunfisk.png);
+}
+.sudowoodo{
+background: url(../dex/sudowoodo.png);
+}
+.suicune{
+background: url(../dex/suicune.png);
+}
+.sunflora{
+background: url(../dex/sunflora.png);
+}
+.swalot{
+background: url(../dex/swalot.png);
+}
+.swampert{
+background: url(../dex/swampert.png);
+}
+.swampert-mega{
+background: url(../dex/swampert-mega.png);
+}
+.swanna{
+background: url(../dex/swanna.png);
+}
+.swellow{
+background: url(../dex/swellow.png);
+}
+.swoobat{
+background: url(../dex/swoobat.png);
+}
+.sylveon{
+background: url(../dex/sylveon.png);
+}
+.talonflame{
+background: url(../dex/talonflame.png);
+}
+.tangrowth{
+background: url(../dex/tangrowth.png);
+}
+.tapu-bulu{
+background: url(../dex/tapu-bulu.png);
+}
+.tapu-fini{
+background: url(../dex/tapu-fini.png);
+}
+.tapu-koko{
+background: url(../dex/tapu-koko.png);
+}
+.tapu-lele{
+background: url(../dex/tapu-lele.png);
+}
+.taurus{
+background: url(../dex/taurus.png);
+}
+.tentacruel{
+background: url(../dex/tentacruel.png);
+}
+.terrakion{
+background: url(../dex/terrakion.png);
+}
+.throh{
+background: url(../dex/throh.png);
+}
+.thundurus{
+background: url(../dex/thundurus.png);
+}
+.thundurus-therian{
+background: url(../dex/thundurus-therian.png);
+}
+.togedemaru{
+background: url(../dex/togedemaru.png);
+}
+.togekiss{
+background: url(../dex/togekiss.png);
+}
+.togetic{
+background: url(../dex/togetic.png);
+}
+.torkoal{
+background: url(../dex/torkoal.png);
+}
+.tornadus{
+background: url(../dex/tornadus.png);
+}
+.tornadus-therian{
+background: url(../dex/tornadus-therian.png);
+}
+.torterra{
+background: url(../dex/torterra.png);
+}
+.toucannon{
+background: url(../dex/toucannon.png);
+}
+.toxapex{
+background: url(../dex/toxapex.png);
+}
+.toxicroak{
+background: url(../dex/toxicroak.png);
+}
+.trevenant{
+background: url(../dex/trevenant.png);
+}
+.tropius{
+background: url(../dex/tropius.png);
+}
+.tsareena{
+background: url(../dex/tsareena.png);
+}
+.turtonator{
+background: url(../dex/turtonator.png);
+}
+.type-null{
+background: url(../dex/type-null.png);
+}
+.typhlosion{
+background: url(../dex/typhlosion.png);
+}
+.tyranitar{
+background: url(../dex/tyranitar.png);
+}
+.tyranitar-mega{
+background: url(../dex/tyranitar-mega.png);
+}
+.tyrantrum{
+background: url(../dex/tyrantrum.png);
+}
+.umbreon{
+background: url(../dex/umbreon.png);
+}
+.unfezant{
+background: url(../dex/unfezant.png);
+}
+.unown{
+background: url(../dex/unown-h.png);
+}
+.ursaring{
+background: url(../dex/ursaring.png);
+}
+.uxie{
+background: url(../dex/uxie.png);
+}
+.vanilluxe{
+background: url(../dex/vanilluxe.png);
+}
+.vaporeon{
+background: url(../dex/vaporeon.png);
+}
+.venomoth{
+background: url(../dex/venomoth.png);
+}
+.venusaur{
+background: url(../dex/venusaur.png);
+}
+.venusaur-mega{
+background: url(../dex/venusaur-mega.png);
+}
+.vespiquen{
+background: url(../dex/vespiquen.png);
+}
+.victini{
+background: url(../dex/victini.png);
+}
+.victreebel{
+background: url(../dex/victreebel.png);
+}
+.vigoroth{
+background: url(../dex/vigoroth.png);
+}
+.vikavolt{
+background: url(../dex/vikavolt.png);
+}
+.vileplume{
+background: url(../dex/vileplume.png);
+}
+.virizion{
+background: url(../dex/virizion.png);
+}
+.vivillon{
+background: url(../dex/vivillon-sun.png);
+}
+.volbeat{
+background: url(../dex/volbeat.png);
+}
+.volcanion{
+background: url(../dex/volcanion.png);
+}
+.volcarona{
+background: url(../dex/volcarona.png);
+}
+.wailord{
+background: url(../dex/wailord.png);
+}
+.walrein{
+background: url(../dex/walrein.png);
+}
+.weavile{
+background: url(../dex/weavile.png);
+}
+.weezing{
+background: url(../dex/weezing.png);
+}
+.whimsicott{
+background: url(../dex/whimsicott.png);
+}
+.whiscash{
+background: url(../dex/whiscash.png);
+}
+.wigglytuff{
+background: url(../dex/wigglytuff.png);
+}
+.wishiwashi{
+background: url(../dex/wishiwashi-school.png);
+}
+.wobbuffet{
+background: url(../dex/wobbuffet.png);
+}
+.wormadam{
+background: url(../dex/wormadam.png);
+}
+.xatu{
+background: url(../dex/xatu.png);
+}
+.xernas{
+background: url(../dex/xerneas.png);
+}
+.xurkitree{
+background: url(../dex/xurkitree.png);
+}
+.yanmega{
+background: url(../dex/yanmega.png);
+}
+.yveltal{
+background: url(../dex/yveltal.png);
+}
+.zangoose{
+background: url(../dex/zangoose.png);
+}
+.zapdos{
+background: url(../dex/zapdos.png);
+}
+.zekrom{
+background: url(../dex/zekrom.png);
+}
+.zoroark{
+background: url(../dex/zoroark.png);
+}
+.zygarde{
+background: url(../dex/zygarde.png);
+}
+.zygarde-10{
+background: url(../dex/zygarde-10.png);
+}
+.zygarde-complete{
+background: url(../dex/zygarde-complete.png);
 }
