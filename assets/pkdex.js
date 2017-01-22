@@ -594,7 +594,7 @@ var   beheeyem={
     "epsilon": false,
     "zeta": false,
     "icon": "<i class='pk beheeyem'></i>"
-}; pokemon.push(beheyeem);
+}; pokemon.push(beheeyem);
 var   bellossom={
     "ou": true,
     "uu": false,
