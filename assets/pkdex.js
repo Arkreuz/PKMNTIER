@@ -422,7 +422,7 @@ var  aurorus= {
 }; pokemon.push(aurorus);
 
 
-var  avalugg= {
+var  avalugg = {
     "ou": true,
     "uu": false,
     "ru": false,
@@ -435,4 +435,202 @@ var  avalugg= {
     "zeta": false,
     "icon": "<i class='pk avalugg'></i>"
 }; pokemon.push(avalugg);
-//Show Pokemon
+
+
+var  azelf ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk azelf'></i>"
+}; pokemon.push(azelf);
+var azumarill ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk azumarill'></i>"
+}; pokemon.push(azumarill);
+var  banette ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk banette'></i>"
+}; pokemon.push(banette);
+var  banette_mega ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk banette-mega'></i>"
+}; pokemon.push(banette_mega);
+var  barbaracle ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk barbaracle'></i>"
+}; pokemon.push(barbaracle);
+var   basculin_blue={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk basculin'></i>"
+}; pokemon.push(basculin_blue);
+var   bastiodon={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk bastiodon'></i>"
+}; pokemon.push(bastiodon);
+var   beartic={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk beartic'></i>"
+}; pokemon.push(beartic);
+
+var   beautifly={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk beautifly'></i>"
+}; pokemon.push(beautifly);
+
+var   beedrill={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk beedrill'></i>"
+}; pokemon.push(beedrill);
+var  beedrill_mega ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk beedrill-mega'></i>"
+}; pokemon.push(beedrill_mega);
+var   beheeyem={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk beheeyem'></i>"
+}; pokemon.push(beheyeem);
+var   bellossom={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk bellossom'></i>"
+}; pokemon.push(bellossom);
+var   bewear={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk bewear'></i>"
+}; pokemon.push(bewear);
+var   bibarel={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk bibarel'></i>"
+}; pokemon.push(bibarel);
