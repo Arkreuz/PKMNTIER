@@ -2,6 +2,7 @@ var pokemon = [];
 
 var abomasnow = {
  "name": "abomasnow",
+ "metagame": {
     "ou": true,
     "uu": true,
     "ru": true,
@@ -12,6 +13,7 @@ var abomasnow = {
     "delta": true,
     "epsilon": false,
     "zeta": false,
+},
     "icon": "<i class='pk abomasnow'></i>"
 };pokemon.push(abomasnow);
 
@@ -634,3 +636,133 @@ var   bibarel={
     "zeta": false,
     "icon": "<i class='pk bibarel'></i>"
 }; pokemon.push(bibarel);
+var   bisharp ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk bisharp'></i>"
+}; pokemon.push(bisharp);
+var  blastoise  ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk blastoise'></i>"
+}; pokemon.push(blastoise);
+var  blastoise_mega  ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk blastoise-mega'></i>"
+}; pokemon.push(blastoise_mega);
+var  blaziken  ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk blaziken'></i>"
+}; pokemon.push(blaziken);
+var blaziken_mega   ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk blaziken-mega'></i>"
+}; pokemon.push(blaziken_mega);
+var blissey   ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk blissey'></i>"
+}; pokemon.push(blissey);
+var  bouffalant  ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk bouffalant'></i>"
+}; pokemon.push(bouffalant);
+var braviary   ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk braviary'></i>"
+}; pokemon.push(braviary);
+var  breloom  ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk breloom'></i>"
+}; pokemon.push(breloom);
+var  bronzong  ={
+    "ou": true,
+    "uu": false,
+    "ru": false,
+    "nu": false,
+    "pu": false,
+    "beta": true,
+    "gamma": false,
+    "delta": false,
+    "epsilon": false,
+    "zeta": false,
+    "icon": "<i class='pk bronzong'></i>"
+}; pokemon.push(bronzong);

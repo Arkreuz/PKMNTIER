@@ -25,7 +25,7 @@ $(function() {
             $( "#display" ).empty();
 
             for (var i = 0; i < pokemon.length; i++) {
-                if (pokemon[i].ou) {
+                if (pokemon[i].metagame.ou) {
                      loadPKMN(i);
                 }
 
