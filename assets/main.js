@@ -35,7 +35,7 @@ else if (val === "uu") {
 
     $( "#display" ).empty();
     for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].uu) {
+        if (pokemon[i].metagame.uu) {
              loadPKMN(i);
         }
 
@@ -46,7 +46,7 @@ else if (val === "ru") {
 
     $( "#display" ).empty();
     for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].ru) {
+        if (pokemon[i].metagame.ru) {
              loadPKMN(i);
         }
     }
@@ -59,7 +59,7 @@ else if (val === "nu") {
 
     $( "#display" ).empty();
     for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].nu) {
+        if (pokemon[i].metagame.nu) {
              loadPKMN(i);
         }
     }
@@ -72,7 +72,7 @@ else if (val === "pu") {
 
     $( "#display" ).empty();
     for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].pu) {
+        if (pokemon[i].metagame.pu) {
              loadPKMN(i);
         }
     }
@@ -85,7 +85,7 @@ else if (val === "beta") {
 
     $( "#display" ).empty();
     for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].beta) {
+        if (pokemon[i].metagame.beta) {
              loadPKMN(i);
         }
     }
@@ -97,7 +97,7 @@ else if (val === "gamma") {
 
     $( "#display" ).empty();
     for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].gamma) {
+        if (pokemon[i].metagame.gamma) {
              loadPKMN(i);
         }
     }
@@ -110,7 +110,7 @@ else if (val === "delta") {
 
     $( "#display" ).empty();
     for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].delta) {
+        if (pokemon[i].metagame.delta) {
              loadPKMN(i);
         }
     }
@@ -123,7 +123,7 @@ else if (val === "epsilon") {
 
     $( "#display" ).empty();
     for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].epsilon) {
+        if (pokemon[i].metagame.epsilon) {
              loadPKMN(i);
         }
     }
@@ -135,7 +135,7 @@ else if (val === "zeta") {
 
     $( "#display" ).empty();
     for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].zeta) {
+        if (pokemon[i].metagame.zeta) {
              loadPKMN(i);
         }
     }

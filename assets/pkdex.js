@@ -20,6 +20,7 @@ var abomasnow = {
 
 
 var abomasnow_mega = {
+"metagame": {
     "ou": true,
     "uu": true,
     "ru": true,
@@ -30,11 +31,13 @@ var abomasnow_mega = {
     "delta": true,
     "epsilon": false,
     "zeta": false,
+},
     "icon": "<i class='pk abomasnow-mega'></i>"
 }; pokemon.push(abomasnow_mega);
 
 
 var absol = {
+    "metagame": {
     "ou": true,
     "uu": true,
     "ru": true,
@@ -45,10 +48,12 @@ var absol = {
     "delta": true,
     "epsilon":true,
     "zeta": false,
+},
     "icon": "<i class='pk absol'></i>"
 }; pokemon.push(absol);
 
 var absol_mega = {
+    "metagame": {
     "ou": true,
     "uu": true,
     "ru": false,
@@ -59,6 +64,7 @@ var absol_mega = {
     "delta": false,
     "epsilon": false,
     "zeta": false,
+},
     "icon": "<i class='pk absol-mega'></i>"
 }; pokemon.push(absol_mega);
 
