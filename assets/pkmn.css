@@ -4,19 +4,12 @@
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  width: 100%;
-  height: 100%;
-  max-width: 128px;
-  max-height: 128px;
-  background-repeat: no-repeat;
-  background-position: center center;
+  width: 128px;
+  height: 128px;
 }
 
 .abomasnow {
 background: url(../dex/abomasnow.png);
-background-repeat: no-repeat;
-background-position: center;
-background-size: auto;
 }
 
 .abomasnow-mega {
@@ -483,17 +476,20 @@ background: url(../dex/ferrothorn.png);
 .flareon {
 background: url(../dex/flareon.png);
 }
+.fletchinder {
+background: url(../dex/fletchinder.png);
+}
 .floatzel {
 background: url(../dex/floatzel.png);
 }
 .florges {
-background: url(../dex/florges-blue.png);
+background: url(../dex/florges.png);
 }
 .flygon {
 background: url(../dex/flygon.png);
 }
 .forretress {
-background: url(../dex/.png);
+background: url(../dex/forretress.png);
 }
 .frogadier {
 background: url(../dex/frogadier.png);

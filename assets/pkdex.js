@@ -962,7 +962,7 @@ var   camerupt_mega  ={
         "epsilon": false,
         "zeta": false,
     },
-    "icon": "<i class='pk camerupt'></i>"
+    "icon": "<i class='pk camerupt-mega'></i>"
 }; pokemon.push(camerupt_mega);
 var   carbink  ={
     "metagame": {
@@ -2318,6 +2318,874 @@ var ferrothorn    ={
     },
     "icon": "<i class='pk ferrothorn'></i>"
 }; pokemon.push(ferrothorn);
+var   flareon  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk flareon'></i>"
+}; pokemon.push(flareon);
+var  fletchinder   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk fletchinder'></i>"
+}; pokemon.push(fletchinder);
+var  floatzel   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk floatzel'></i>"
+}; pokemon.push(floatzel);
+var   florges  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk florges'></i>"
+}; pokemon.push(florges);
+var   flygon  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk flygon'></i>"
+}; pokemon.push(flygon);
+var   forretress  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk forretress'></i>"
+}; pokemon.push(forretress);
+var   froslass  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk froslass'></i>"
+}; pokemon.push(froslass);
+var   furfrou  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk furfrou'></i>"
+}; pokemon.push(furfrou);
+var   furret  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk furret'></i>"
+}; pokemon.push(furret);
+var  gallade   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gallade'></i>"
+}; pokemon.push(gallade);
+var  gallade_mega   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gallade-mega'></i>"
+}; pokemon.push(gallade_mega);
+var   galvantula  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk galvantula'></i>"
+}; pokemon.push(galvantula);
+var  garbodor  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk garbodor'></i>"
+}; pokemon.push(garbodor);
+var   garchomp  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk garchomp'></i>"
+}; pokemon.push(garchomp);
+var   garchomp_mega  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk garchomp-mega'></i>"
+}; pokemon.push(garchomp_mega);
+var  gardevoir   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gardevoir'></i>"
+}; pokemon.push(gardevoir);
+var    gardevoir_mega ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gardevoir-mega'></i>"
+}; pokemon.push(gardevoir_mega);
+var  gastrodon   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gastrodon'></i>"
+}; pokemon.push(gastrodon);
+var  genesect   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk genesect'></i>"
+}; pokemon.push(genesect);
+var    gengar ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gengar'></i>"
+}; pokemon.push(gengar);
+var   gengar_mega  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gengar-mega'></i>"
+}; pokemon.push(gengar_mega);
+
+var   gigalith  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gigalith'></i>"
+}; pokemon.push(gigalith);
+var   girafarig  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk girafarig'></i>"
+}; pokemon.push(girafarig);
+var giratina    ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk giratina'></i>"
+}; pokemon.push(giratina);
+var giratina_origin    ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk giratina-origin'></i>"
+}; pokemon.push(giratina_origin);
+var  glaceon   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk glaceon'></i>"
+}; pokemon.push(glaceon);
+var   glalie  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk glalie'></i>"
+}; pokemon.push(glalie);
+var   glalie_mega   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk glalie-mega'></i>"
+}; pokemon.push(glalie_mega);
+var   gliscor  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gliscor'></i>"
+}; pokemon.push(gliscor);
+var   gogoat  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gogoat'></i>"
+}; pokemon.push(gogoat);
+var   golbat  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk golbat'></i>"
+}; pokemon.push(golbat);
+var   golduck  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk golduck'></i>"
+}; pokemon.push(golduck);
+var   golem  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk golem'></i>"
+}; pokemon.push(golem);
+var  golem_a   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": true,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk golem-a'></i>"
+}; pokemon.push(golem_a);
+var   golisopod  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk golisopod></i>"
+}; pokemon.push(golisopod);
+var   golurk  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk golurk'></i>"
+}; pokemon.push(golurk);
+var   goodra  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk goodra></i>"
+}; pokemon.push(goodra);
+var   gorebyss  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gorebyss'></i>"
+}; pokemon.push(gorebyss);
+var   gothitelle  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gothitelle'></i>"
+}; pokemon.push(gothitelle);
+var   gourgeist  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gourgeist'></i>"
+}; pokemon.push(gourgeist);
+var  granbull   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk granbull'></i>"
+}; pokemon.push(granbull);
+var   graveler_a  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk graveler-a'></i>"
+}; pokemon.push(graveler_a);
+var  greninja   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk greninja'></i>"
+}; pokemon.push(greninja);
+var  greninja_ash   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk greninja-ash'></i>"
+}; pokemon.push(greninja_ash);
+var   groudon  ={
+    "metagame": {
+        "uber": false,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": false,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk groudon'></i>"
+}; pokemon.push(groudon);
+var   groudon_primal  ={
+    "metagame": {
+        "uber": false,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": false,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk groudon-primal'></i>"
+}; pokemon.push(groudon_primal);
+var   grumpig  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk grumpig'></i>"
+}; pokemon.push(grumpig);
+var  gumshoos   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gumshoos'></i>"
+}; pokemon.push(gumshoos);
+var   guzzlord  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk guzzlord'></i>"
+}; pokemon.push(guzzlord);
+var   gyarados  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gyarados'></i>"
+}; pokemon.push(gyarados);
+var   gyarados_mega  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk gyarados-mega'></i>"
+}; pokemon.push(gyarados_mega);
 // var     ={
 //     "metagame": {
 //         "uber": false,
