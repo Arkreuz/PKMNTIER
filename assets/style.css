@@ -10,7 +10,7 @@
               width: 100%;
               height: 20%
               order: 1;
-              background-color: #fff;
+
 
           }
           .box2{
@@ -75,11 +75,32 @@ option{
     background: white;
     color: #232323;
 }
+
+select{
+    display: block;
+margin: 0 auto;
+}
+
 .fbox{
     display: flex;
     flex-wrap: wrap;
 
 }
+
+.box1{
+    width: 100%;
+    height: 20%
+    order: 1;
+
+
+}
+.box2{
+    width: 100%;
+    order: 2;
+
+
+}
+
 
 
 .display{
@@ -94,6 +115,7 @@ option{
     border: none;
     cursor: pointer;
     text-align: center;
+    ale
 
 }
 
@@ -108,7 +130,7 @@ option{
 
 .dropdown-content {
     display: none;
-    position: absolute;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+    position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
     overflow: auto;

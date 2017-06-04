@@ -145,7 +145,7 @@ background: url(../dex/banette-mega.png);
 background: url(../dex/barbaracle.png);
 }
 .basculin {
-background: url(../dex/basculin-blue-striped.png);
+background: url(../dex/basculin-blue.png);
 }
 .bastiodon {
 background: url(../dex/bastiodon.png);
@@ -396,8 +396,8 @@ background: url(../dex/druddigon.png);
 .dugtrio {
 background: url(../dex/dugtrio.png);
 }
-.dugtrio-alola {
-background: url(../dex/dugtrio-alola.png);
+.dugtrio-a {
+background: url(../dex/dugtrio-a.png);
 }
 .dunsparce {
 background: url(../dex/dunsparce.png);
@@ -453,8 +453,8 @@ background: url(../dex/excadrill.png);
 .exeggutor {
 background: url(../dex/exeggutor.png);
 }
-.exeggutor-alola {
-background: url(../dex/exeggutor-alola.png);
+.exeggutor-a {
+background: url(../dex/exeggutor-a.png);
 }
 .exploud {
 background: url(../dex/exploud.png);
@@ -573,8 +573,8 @@ background: url(../dex/golduck.png);
 .golem {
 background: url(../dex/golem.png);
 }
-.golem-alola {
-background: url(../dex/golem-alola.png);
+.golem-a {
+background: url(../dex/golem-a.png);
 }
 .golisopod {
 background: url(../dex/golisopod.png);
@@ -726,7 +726,7 @@ background: url(../dex/kartana.png);
 .kecleon{
 background: url(../dex/kecleon.png);
 }
-.keldeo-resolute{
+.keldeo{
 background: url(../dex/keldeo-resolute.png);
 }
 .kingdra{
@@ -894,8 +894,8 @@ background: url(../dex/mantine.png);
 .marowak{
 background: url(../dex/marowak.png);
 }
-.marowak-alola{
-background: url(../dex/marowak-alola.png);
+.marowak-a{
+background: url(../dex/marowak-a.png);
 }
 .marshadow{
 background: url(../dex/marshadow.png);
@@ -921,8 +921,8 @@ background: url(../dex/meganium.png);
 .meloetta{
 background: url(../dex/meloetta.png);
 }
-.meowstic{
-background: url(../dex/meowstic.png);
+.meowstic-male{
+background: url(../dex/meowstic-male.png);
 }
 .meowstic-female{
 background: url(../dex/meowstic-female.png);
@@ -984,8 +984,8 @@ background: url(../dex/mudsdale.png);
 .muk{
 background: url(../dex/muk.png);
 }
-.muk-alola{
-background: url(../dex/muk-alola.png);
+.muk-a{
+background: url(../dex/muk-a.png);
 }
 .musharna{
 background: url(../dex/musharna.png);
@@ -1005,8 +1005,8 @@ background: url(../dex/nihilego.png);
 .ninetales{
 background: url(../dex/ninetales.png);
 }
-.ninetales-alola{
-background: url(../dex/ninetales-alola.png);
+.ninetales-a{
+background: url(../dex/ninetales-a.png);
 }
 .ninjask{
 background: url(../dex/ninjask.png);
@@ -1026,8 +1026,8 @@ background: url(../dex/omastar.png);
 .oranguru{
 background: url(../dex/oranguru.png);
 }
-.oricorio{
-background: url(../dex/oricorio.png);
+.oricorio-baile{
+background: url(../dex/oricorio-baile.png);
 }
 .oricorio-pau{
 background: url(../dex/oricorio-pau.png);
@@ -1062,8 +1062,8 @@ background: url(../dex/pelipper.png);
 .persian{
 background: url(../dex/persian.png);
 }
-.persian-alola{
-background: url(../dex/persian-alola.png);
+.persian-a{
+background: url(../dex/persian-a.png);
 }
 .pheromosa{
 background: url(../dex/pheromosa.png);
@@ -1129,8 +1129,8 @@ background: url(../dex/qwilfish.png);
 .raichu{
 background: url(../dex/raichu.png);
 }
-.raichu-alola{
-background: url(../dex/raichu-alola.png);
+.raichu-a{
+background: url(../dex/raichu-a.png);
 }
 .raikou{
 background: url(../dex/raikou.png);
@@ -1144,8 +1144,8 @@ background: url(../dex/rapidash.png);
 .raticate{
 background: url(../dex/raticate.png);
 }
-.raticate-alola{
-background: url(../dex/raticate-alola.png);
+.raticate-a{
+background: url(../dex/raticate-a.png);
 }
 .rayquaza{
 background: url(../dex/rayquaza.png);
@@ -1228,8 +1228,8 @@ background: url(../dex/samurott.png);
 .sandslash{
 background: url(../dex/sandslash.png);
 }
-.sandslash-alola{
-background: url(../dex/sandslash-alola.png);
+.sandslash-a{
+background: url(../dex/sandslash-a.png);
 }
 .sawk{
 background: url(../dex/sawk.png);
@@ -1582,8 +1582,14 @@ background: url(../dex/wishiwashi-school.png);
 .wobbuffet{
 background: url(../dex/wobbuffet.png);
 }
-.wormadam{
-background: url(../dex/wormadam.png);
+.wormadam-plant{
+background: url(../dex/wormadam-plant.png);
+}
+.wormadam-sandy{
+background: url(../dex/wormadam-sandy.png);
+}
+.wormadam-trash{
+background: url(../dex/wormadam-trash.png);
 }
 .xatu{
 background: url(../dex/xatu.png);
@@ -1612,11 +1618,11 @@ background: url(../dex/zekrom.png);
 .zoroark{
 background: url(../dex/zoroark.png);
 }
-.zygarde{
-background: url(../dex/zygarde.png);
-}
 .zygarde-10{
 background: url(../dex/zygarde-10.png);
+}
+.zygarde-50{
+background: url(../dex/zygarde-50.png);
 }
 .zygarde-complete{
 background: url(../dex/zygarde-complete.png);
