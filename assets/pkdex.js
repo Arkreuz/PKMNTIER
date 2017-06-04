@@ -3186,20 +3186,54 @@ var   gyarados_mega  ={
     },
     "icon": "<i class='pk gyarados-mega'></i>"
 }; pokemon.push(gyarados_mega);
-// var     ={
-//     "metagame": {
-//         "uber": false,
-//         "ou": true,
-//         "uu": false,
-//         "ru": false,
-//         "nu": false,
-//         "pu": false,
-//         "alpha": false,
-//         "beta": true,
-//         "gamma": false,
-//         "delta": false,
-//         "epsilon": false,
-//         "zeta": false,
-//     },
-//     "icon": "<i class='pk '></i>"
-// }; pokemon.push();
+var   hariyama  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk hariyama'></i>"
+}; pokemon.push(hariyama);
+var    hawlucha ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk hawlucha'></i>"
+}; pokemon.push(hawlucha);
+var   haxorus  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk haxorus'></i>"
+}; pokemon.push(haxorus);
