@@ -4,9 +4,12 @@
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  width: 40px;
-  height: 30px;
+  width: 100%;
+  height: 100%;
+  max-width: 128px;
+  max-height: 128px;
   background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .abomasnow {
@@ -259,7 +262,7 @@ background: url(../dex/charizard-mega-y.png);
 background: url(../dex/chatot.png);
 }
 .cherrim-sunshine {
-background: url(../dex/cherrim-sunshinet.png);
+background: url(../dex/cherrim-sunshine.png);
 }
 .chesnaught {
 background: url(../dex/chesnaught.png);
@@ -323,6 +326,9 @@ background: url(../dex/darmanitan.png);
 }
 .decidueye {
 background: url(../dex/decidueye.png);
+}
+.dedenne {
+background: url(../dex/dedenne.png);
 }
 .delcatty {
 background: url(../dex/delcatty.png);
@@ -468,6 +474,9 @@ background: url(../dex/fearow.png);
 .feraligatr{
 background: url(../dex/feraligatr.png);
 }
+.ferroseed{
+background: url(../dex/ferroseed.png);
+}
 .ferrothorn{
 background: url(../dex/ferrothorn.png);
 }
@@ -596,6 +605,9 @@ background: url(../dex/gourgeist.png);
 }
 .granbull {
 background: url(../dex/granbull.png);
+}
+.graveler-a {
+background: url(../dex/graveler-a.png);
 }
 .greninja {
 background: url(../dex/greninja.png);

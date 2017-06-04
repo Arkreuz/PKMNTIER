@@ -14,7 +14,7 @@ var abomasnow = {
         "epsilon": false,
         "zeta": false,
     },
-    "icon": "<i class='pk abomasnow'></i>"
+    "icon": "<i class='pk abomasnow img-responsive'></i>"
 };pokemon.push(abomasnow);
 
 
@@ -1550,12 +1550,12 @@ var   delphox ={
 }; pokemon.push(delphox);
 var   deoxys ={
     "metagame": {
-        "ou": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -1565,12 +1565,12 @@ var   deoxys ={
 }; pokemon.push(deoxys);
 var   deoxys_attack  ={
     "metagame": {
-        "ou": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -1580,7 +1580,7 @@ var   deoxys_attack  ={
 }; pokemon.push(deoxys_attack);
 var   deoxys_defense  ={
     "metagame": {
-        "ou": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
@@ -1595,12 +1595,12 @@ var   deoxys_defense  ={
 }; pokemon.push(deoxys_defense);
 var   deoxys_speed  ={
     "metagame": {
-        "ou": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -1641,13 +1641,13 @@ var   dhelmise ={
 var   dialga  ={
     "metagame": {
         "uber": true,
-        "ou": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -2063,3 +2063,275 @@ var   electrode  ={
     },
     "icon": "<i class='pk electrode'></i>"
 }; pokemon.push(electrode);
+var  emboar   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk emboar'></i>"
+}; pokemon.push(emboar);
+var   emolga  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk emolga'></i>"
+}; pokemon.push(emolga);
+var  empoleon   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk empoleon'></i>"
+}; pokemon.push(empoleon);
+var   entei  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk entei'></i>"
+}; pokemon.push(entei);
+var   escavalier  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk escavalier'></i>"
+}; pokemon.push(escavalier);
+var    espeon ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk espeon'></i>"
+}; pokemon.push(espeon);
+var  excadrill   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk excadrill'></i>"
+}; pokemon.push(excadrill);
+var  exeggutor   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk exeggutor'></i>"
+}; pokemon.push(exeggutor);
+var  exeggutor_a   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk exeggutor-a'></i>"
+}; pokemon.push(exeggutor_a);
+var   exploud  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk exploud'></i>"
+}; pokemon.push(exploud);
+var  farfetchd   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk farfetchd'></i>"
+}; pokemon.push(farfetchd);
+var  fearow   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk fearow'></i>"
+}; pokemon.push(fearow);
+var   feraligatr  ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk feraligatr'></i>"
+}; pokemon.push(feraligatr);
+var  ferroseed   ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk ferroseed'></i>"
+}; pokemon.push(ferroseed);
+var ferrothorn    ={
+    "metagame": {
+        "uber": false,
+        "ou": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": false,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk ferrothorn'></i>"
+}; pokemon.push(ferrothorn);
+// var     ={
+//     "metagame": {
+//         "uber": false,
+//         "ou": true,
+//         "uu": false,
+//         "ru": false,
+//         "nu": false,
+//         "pu": false,
+//         "alpha": false,
+//         "beta": true,
+//         "gamma": false,
+//         "delta": false,
+//         "epsilon": false,
+//         "zeta": false,
+//     },
+//     "icon": "<i class='pk '></i>"
+// }; pokemon.push();
