@@ -3222,13 +3222,13 @@ var    hawlucha ={
 }; pokemon.push(hawlucha);
 var   haxorus  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
-        "uu": false,
+        "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3237,3 +3237,769 @@ var   haxorus  ={
     },
     "icon": "<i class='pk haxorus'></i>"
 }; pokemon.push(haxorus);
+
+var   heatmor  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk heatmor'></i>"
+}; pokemon.push(heatmor);
+var   heatran  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk heatran'></i>"
+}; pokemon.push(heatran);
+var   heliolisk  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk heliolisk'></i>"
+}; pokemon.push(heliolisk);
+var   heracross  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk heracross'></i>"
+}; pokemon.push(heracross);
+var   heracross_mega  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk heracross-mega'></i>"
+}; pokemon.push(heracross_mega);
+var   hippowdon  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk hippowdon'></i>"
+}; pokemon.push(hippowdon);
+var  hitmonchan   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk hitmonchan'></i>"
+}; pokemon.push(hitmonchan);
+var   hitmonlee  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk hitmonlee'></i>"
+}; pokemon.push(hitmonlee);
+var   hitmontop  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk hitmontop'></i>"
+}; pokemon.push(hitmontop);
+var   honchkrow  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk honchkrow'></i>"
+}; pokemon.push(honchkrow);
+var   ho_oh  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk ho-oh'></i>"
+}; pokemon.push(ho_oh);
+var   hoopa  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk hoopa'></i>"
+}; pokemon.push(hoopa);
+var   hoopa_unbound  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk hoopa-unbound'></i>"
+}; pokemon.push(hoopa_unbound);
+var  houndoom   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk houndoom'></i>"
+}; pokemon.push(houndoom);
+var  houndoom_mega   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk houndoom-mega'></i>"
+}; pokemon.push(houndoom_mega);
+var   hydreigon  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk hydreigon'></i>"
+}; pokemon.push(hydreigon);
+var   hypno  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk hypno'></i>"
+}; pokemon.push(hypno);
+var  illumise  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk illumise'></i>"
+}; pokemon.push(illumise);
+var   incineroar  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk incineroar'></i>"
+}; pokemon.push(incineroar);
+var  infernape   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk infernape'></i>"
+}; pokemon.push(infernape);
+var  jirachi   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk jirachi'></i>"
+}; pokemon.push(jirachi);
+var   jolteon  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk jolteon'></i>"
+}; pokemon.push(jolteon);
+var   jumpluff  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk jumpluff'></i>"
+}; pokemon.push(jumpluff);
+var   jynx  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk jynx'></i>"
+}; pokemon.push(jynx);
+var  kabutops   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kabutops'></i>"
+}; pokemon.push(kabutops);
+var   kangaskhan  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kangaskhan'></i>"
+}; pokemon.push(kangaskhan);
+var  kangaskhan_mega   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kangaskhan-mega'></i>"
+}; pokemon.push(kangaskhan_mega);
+var   kartana  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kartana'></i>"
+}; pokemon.push(kartana);
+var   kecleon  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kecleon'></i>"
+}; pokemon.push(kecleon);
+var  keldeo   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk keldeo'></i>"
+}; pokemon.push(keldeo);
+var   kingdra  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kingdra'></i>"
+}; pokemon.push(kingdra);
+var   kingler  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kingler'></i>"
+}; pokemon.push(kingler);
+var  klefki   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk klefki'></i>"
+}; pokemon.push(klefki);
+var  klinklang   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk klinklang'></i>"
+}; pokemon.push(klinklang);
+var   komala  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk komala'></i>"
+}; pokemon.push(komala);
+var   kommo_o  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kommo-o'></i>"
+}; pokemon.push(kommo_o);
+var   kricketune  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kricketune'></i>"
+}; pokemon.push(kricketune);
+var  krookodile   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk krookodile'></i>"
+}; pokemon.push(krookodile);
+var   kyogre  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kyogre'></i>"
+}; pokemon.push(kyogre);
+var  kyogre_primal   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kyogre'></i>"
+}; pokemon.push(kyogre_primal);
+var   kyurem  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kyurem'></i>"
+}; pokemon.push(kyurem);
+var  kyurem_black  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kyurem-black'></i>"
+}; pokemon.push(kyurem_black);
+var   kyurem_white  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk kyurem-white'></i>"
+}; pokemon.push(kyurem_white);
+var  landorus   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk landorus'></i>"
+}; pokemon.push(landorus);
+var  landorus_therian   ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
+    },
+    "icon": "<i class='pk landorus-therian'></i>"
+}; pokemon.push(landorus_therian);
