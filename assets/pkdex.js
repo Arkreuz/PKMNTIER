@@ -71,11 +71,13 @@ var absol_mega = {
 
 var aegislash = {
     "metagame": {
-        "ou": true,
+        "uber": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
+        "alpha": true;
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -155,7 +157,7 @@ var aggron_mega = {
 var alakazam = {
     "metagame": {
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru":false,
         "nu": false,
         "pu": false,
@@ -336,11 +338,13 @@ var   arcanine ={
 
 var  arceus= {
     "metagame": {
+        "uber": true,
         "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
+        "alpha": true;
         "beta": false,
         "gamma": false,
         "delta": false,
@@ -771,14 +775,16 @@ var  blastoise_mega  ={
 }; pokemon.push(blastoise_mega);
 var  blaziken  ={
     "metagame": {
-        "ou": true,
+        "uber": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
+        "alpha":true,
         "beta": true,
-        "gamma": false,
-        "delta": false,
+        "gamma": true,
+        "delta": true,
         "epsilon": false,
         "zeta": false,
     },
@@ -786,11 +792,13 @@ var  blaziken  ={
 }; pokemon.push(blaziken);
 var blaziken_mega   ={
     "metagame": {
-        "ou": true,
+        "uber": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
+        "alpha":true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1240,7 +1248,7 @@ var   clefable  ={
         "nu": false,
         "pu": false,
         "beta": true,
-        "gamma": false,
+        "gamma": true,
         "delta": false,
         "epsilon": false,
         "zeta": false,
@@ -1445,12 +1453,14 @@ var   cryogonal  ={
 }; pokemon.push(cryogonal);
 var   darkrai  ={
     "metagame": {
-        "ou": true,
+        "uber": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
+        "alpha": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -1550,11 +1560,13 @@ var   delphox ={
 }; pokemon.push(delphox);
 var   deoxys ={
     "metagame": {
+        "uber": true,
         "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
+        "alpha":true,
         "beta": false,
         "gamma": false,
         "delta": false,
@@ -1565,11 +1577,13 @@ var   deoxys ={
 }; pokemon.push(deoxys);
 var   deoxys_attack  ={
     "metagame": {
+        "uber": true,
         "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
+        "alpha": true,
         "beta": false,
         "gamma": false,
         "delta": false,
@@ -1580,11 +1594,13 @@ var   deoxys_attack  ={
 }; pokemon.push(deoxys_attack);
 var   deoxys_defense  ={
     "metagame": {
+        "uber": true,
         "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1595,11 +1611,13 @@ var   deoxys_defense  ={
 }; pokemon.push(deoxys_defense);
 var   deoxys_speed  ={
     "metagame": {
+        "uber": true,
         "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
+        "alpha": true;
         "beta": false,
         "gamma": false,
         "delta": false,
@@ -1657,13 +1675,13 @@ var   dialga  ={
 }; pokemon.push(dialga);
 var   diancie  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1674,13 +1692,13 @@ var   diancie  ={
 }; pokemon.push(diancie);
 var   diancie_mega  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1691,13 +1709,13 @@ var   diancie_mega  ={
 }; pokemon.push(diancie_mega);
 var   diggersby  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1708,13 +1726,13 @@ var   diggersby  ={
 }; pokemon.push(diggersby);
 var   ditto  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1725,13 +1743,13 @@ var   ditto  ={
 }; pokemon.push(ditto);
 var   dodrio  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1742,13 +1760,13 @@ var   dodrio  ={
 }; pokemon.push(dodrio);
 var   donphan   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1759,13 +1777,13 @@ var   donphan   ={
 }; pokemon.push(donphan);
 var   doublade  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1776,13 +1794,13 @@ var   doublade  ={
 }; pokemon.push(doublade);
 var   dragalge ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1793,13 +1811,13 @@ var   dragalge ={
 }; pokemon.push(dragalge);
 var   dragonite  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1810,13 +1828,13 @@ var   dragonite  ={
 }; pokemon.push(dragonite);
 var   drampa  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1827,13 +1845,13 @@ var   drampa  ={
 }; pokemon.push(drampa);
 var   drapion  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1844,13 +1862,13 @@ var   drapion  ={
 }; pokemon.push(drapion);
 var   drifblim  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1861,13 +1879,13 @@ var   drifblim  ={
 }; pokemon.push(drifblim);
 var   druddigon  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1878,16 +1896,16 @@ var   druddigon  ={
 }; pokemon.push(druddigon);
 var   dugtrio  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
-        "gamma": false,
-        "delta": false,
+        "gamma": true,
+        "delta": true,
         "epsilon": false,
         "zeta": false,
     },
@@ -1895,13 +1913,13 @@ var   dugtrio  ={
 }; pokemon.push(dugtrio);
 var   dugtrio_a  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1912,13 +1930,13 @@ var   dugtrio_a  ={
 }; pokemon.push(dugtrio_a);
 var   dunsparce ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1929,13 +1947,13 @@ var   dunsparce ={
 }; pokemon.push(dunsparce);
 var   durant  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1946,13 +1964,13 @@ var   durant  ={
 }; pokemon.push(durant);
 var   dusclops  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1963,13 +1981,13 @@ var   dusclops  ={
 }; pokemon.push(dusclops);
 var   dusknoir  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1980,13 +1998,13 @@ var   dusknoir  ={
 }; pokemon.push(dusknoir);
 var   dustox  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -1997,13 +2015,13 @@ var   dustox  ={
 }; pokemon.push(dustox);
 var   eelektross  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2014,13 +2032,13 @@ var   eelektross  ={
 }; pokemon.push(eelektross);
 var   eevee  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2031,13 +2049,13 @@ var   eevee  ={
 }; pokemon.push(eevee);
 var   electivire  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2048,13 +2066,13 @@ var   electivire  ={
 }; pokemon.push(electivire);
 var   electrode  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2065,13 +2083,13 @@ var   electrode  ={
 }; pokemon.push(electrode);
 var  emboar   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2082,13 +2100,13 @@ var  emboar   ={
 }; pokemon.push(emboar);
 var   emolga  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2099,13 +2117,13 @@ var   emolga  ={
 }; pokemon.push(emolga);
 var  empoleon   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2116,13 +2134,13 @@ var  empoleon   ={
 }; pokemon.push(empoleon);
 var   entei  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2133,13 +2151,13 @@ var   entei  ={
 }; pokemon.push(entei);
 var   escavalier  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2150,13 +2168,13 @@ var   escavalier  ={
 }; pokemon.push(escavalier);
 var    espeon ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2167,13 +2185,13 @@ var    espeon ={
 }; pokemon.push(espeon);
 var  excadrill   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2184,13 +2202,13 @@ var  excadrill   ={
 }; pokemon.push(excadrill);
 var  exeggutor   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2201,13 +2219,13 @@ var  exeggutor   ={
 }; pokemon.push(exeggutor);
 var  exeggutor_a   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2218,13 +2236,13 @@ var  exeggutor_a   ={
 }; pokemon.push(exeggutor_a);
 var   exploud  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2235,13 +2253,13 @@ var   exploud  ={
 }; pokemon.push(exploud);
 var  farfetchd   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2252,13 +2270,13 @@ var  farfetchd   ={
 }; pokemon.push(farfetchd);
 var  fearow   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2269,13 +2287,13 @@ var  fearow   ={
 }; pokemon.push(fearow);
 var   feraligatr  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2286,13 +2304,13 @@ var   feraligatr  ={
 }; pokemon.push(feraligatr);
 var  ferroseed   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2303,13 +2321,13 @@ var  ferroseed   ={
 }; pokemon.push(ferroseed);
 var ferrothorn    ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2320,13 +2338,13 @@ var ferrothorn    ={
 }; pokemon.push(ferrothorn);
 var   flareon  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2337,13 +2355,13 @@ var   flareon  ={
 }; pokemon.push(flareon);
 var  fletchinder   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2354,13 +2372,13 @@ var  fletchinder   ={
 }; pokemon.push(fletchinder);
 var  floatzel   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2371,13 +2389,13 @@ var  floatzel   ={
 }; pokemon.push(floatzel);
 var   florges  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2388,13 +2406,13 @@ var   florges  ={
 }; pokemon.push(florges);
 var   flygon  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2405,13 +2423,13 @@ var   flygon  ={
 }; pokemon.push(flygon);
 var   forretress  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2422,13 +2440,13 @@ var   forretress  ={
 }; pokemon.push(forretress);
 var   froslass  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2439,13 +2457,13 @@ var   froslass  ={
 }; pokemon.push(froslass);
 var   furfrou  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2456,13 +2474,13 @@ var   furfrou  ={
 }; pokemon.push(furfrou);
 var   furret  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2473,13 +2491,13 @@ var   furret  ={
 }; pokemon.push(furret);
 var  gallade   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2490,13 +2508,13 @@ var  gallade   ={
 }; pokemon.push(gallade);
 var  gallade_mega   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2507,13 +2525,13 @@ var  gallade_mega   ={
 }; pokemon.push(gallade_mega);
 var   galvantula  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2524,13 +2542,13 @@ var   galvantula  ={
 }; pokemon.push(galvantula);
 var  garbodor  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2541,13 +2559,13 @@ var  garbodor  ={
 }; pokemon.push(garbodor);
 var   garchomp  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2558,13 +2576,13 @@ var   garchomp  ={
 }; pokemon.push(garchomp);
 var   garchomp_mega  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2575,13 +2593,13 @@ var   garchomp_mega  ={
 }; pokemon.push(garchomp_mega);
 var  gardevoir   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2592,13 +2610,13 @@ var  gardevoir   ={
 }; pokemon.push(gardevoir);
 var    gardevoir_mega ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2609,13 +2627,13 @@ var    gardevoir_mega ={
 }; pokemon.push(gardevoir_mega);
 var  gastrodon   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2626,13 +2644,13 @@ var  gastrodon   ={
 }; pokemon.push(gastrodon);
 var  genesect   ={
     "metagame": {
-        "uber": false,
-        "ou": true,
+        "uber": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2643,15 +2661,15 @@ var  genesect   ={
 }; pokemon.push(genesect);
 var    gengar ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
-        "gamma": false,
+        "gamma": true,
         "delta": false,
         "epsilon": false,
         "zeta": false,
@@ -2660,14 +2678,14 @@ var    gengar ={
 }; pokemon.push(gengar);
 var   gengar_mega  ={
     "metagame": {
-        "uber": false,
-        "ou": true,
+        "uber": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
-        "beta": true,
+        "alpha": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -2678,13 +2696,13 @@ var   gengar_mega  ={
 
 var   gigalith  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2695,13 +2713,13 @@ var   gigalith  ={
 }; pokemon.push(gigalith);
 var   girafarig  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2712,14 +2730,14 @@ var   girafarig  ={
 }; pokemon.push(girafarig);
 var giratina    ={
     "metagame": {
-        "uber": false,
-        "ou": true,
+        "uber": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
-        "beta": true,
+        "alpha": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -2729,14 +2747,14 @@ var giratina    ={
 }; pokemon.push(giratina);
 var giratina_origin    ={
     "metagame": {
-        "uber": false,
-        "ou": true,
+        "uber": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
-        "beta": true,
+        "alpha": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -2746,13 +2764,13 @@ var giratina_origin    ={
 }; pokemon.push(giratina_origin);
 var  glaceon   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2763,13 +2781,13 @@ var  glaceon   ={
 }; pokemon.push(glaceon);
 var   glalie  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2780,13 +2798,13 @@ var   glalie  ={
 }; pokemon.push(glalie);
 var   glalie_mega   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2797,13 +2815,13 @@ var   glalie_mega   ={
 }; pokemon.push(glalie_mega);
 var   gliscor  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2814,13 +2832,13 @@ var   gliscor  ={
 }; pokemon.push(gliscor);
 var   gogoat  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2831,13 +2849,13 @@ var   gogoat  ={
 }; pokemon.push(gogoat);
 var   golbat  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2848,13 +2866,13 @@ var   golbat  ={
 }; pokemon.push(golbat);
 var   golduck  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2865,13 +2883,13 @@ var   golduck  ={
 }; pokemon.push(golduck);
 var   golem  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2882,13 +2900,13 @@ var   golem  ={
 }; pokemon.push(golem);
 var  golem_a   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2899,13 +2917,13 @@ var  golem_a   ={
 }; pokemon.push(golem_a);
 var   golisopod  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2916,13 +2934,13 @@ var   golisopod  ={
 }; pokemon.push(golisopod);
 var   golurk  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2933,13 +2951,13 @@ var   golurk  ={
 }; pokemon.push(golurk);
 var   goodra  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2950,13 +2968,13 @@ var   goodra  ={
 }; pokemon.push(goodra);
 var   gorebyss  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2967,13 +2985,13 @@ var   gorebyss  ={
 }; pokemon.push(gorebyss);
 var   gothitelle  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -2984,13 +3002,13 @@ var   gothitelle  ={
 }; pokemon.push(gothitelle);
 var   gourgeist  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3001,13 +3019,13 @@ var   gourgeist  ={
 }; pokemon.push(gourgeist);
 var  granbull   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3018,13 +3036,13 @@ var  granbull   ={
 }; pokemon.push(granbull);
 var   graveler_a  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3035,13 +3053,13 @@ var   graveler_a  ={
 }; pokemon.push(graveler_a);
 var  greninja   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3052,13 +3070,13 @@ var  greninja   ={
 }; pokemon.push(greninja);
 var  greninja_ash   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3069,13 +3087,13 @@ var  greninja_ash   ={
 }; pokemon.push(greninja_ash);
 var   groudon  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": false,
         "gamma": false,
         "delta": false,
@@ -3086,13 +3104,13 @@ var   groudon  ={
 }; pokemon.push(groudon);
 var   groudon_primal  ={
     "metagame": {
-        "uber": false,
+        "uber": uber,
         "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": false,
         "gamma": false,
         "delta": false,
@@ -3103,13 +3121,13 @@ var   groudon_primal  ={
 }; pokemon.push(groudon_primal);
 var   grumpig  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3120,13 +3138,13 @@ var   grumpig  ={
 }; pokemon.push(grumpig);
 var  gumshoos   ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3137,13 +3155,13 @@ var  gumshoos   ={
 }; pokemon.push(gumshoos);
 var   guzzlord  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3154,13 +3172,13 @@ var   guzzlord  ={
 }; pokemon.push(guzzlord);
 var   gyarados  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3171,13 +3189,13 @@ var   gyarados  ={
 }; pokemon.push(gyarados);
 var   gyarados_mega  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3188,13 +3206,13 @@ var   gyarados_mega  ={
 }; pokemon.push(gyarados_mega);
 var   hariyama  ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3205,13 +3223,13 @@ var   hariyama  ={
 }; pokemon.push(hariyama);
 var    hawlucha ={
     "metagame": {
-        "uber": false,
+        "uber": true,
         "ou": true,
         "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": false,
+        "alpha": true,
         "beta": true,
         "gamma": false,
         "delta": false,
@@ -3259,7 +3277,7 @@ var   heatran  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -3293,13 +3311,13 @@ var   heracross  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
         "beta": true,
-        "gamma": false,
+        "gamma": true,
         "delta": false,
         "epsilon": false,
         "zeta": false,
@@ -3310,13 +3328,13 @@ var   heracross_mega  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
         "beta": true,
-        "gamma": false,
+        "gamma": true,
         "delta": false,
         "epsilon": false,
         "zeta": false,
@@ -3411,13 +3429,13 @@ var   honchkrow  ={
 var   ho_oh  ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -3446,7 +3464,7 @@ var   hoopa_unbound  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -3582,13 +3600,13 @@ var  jirachi   ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
         "beta": true,
-        "gamma": false,
+        "gamma": true,
         "delta": false,
         "epsilon": false,
         "zeta": false,
@@ -3683,8 +3701,8 @@ var   kangaskhan  ={
 var  kangaskhan_mega   ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -3701,7 +3719,7 @@ var   kartana  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -3735,7 +3753,7 @@ var  keldeo   ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -3887,13 +3905,13 @@ var  krookodile   ={
 var   kyogre  ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -3904,13 +3922,13 @@ var   kyogre  ={
 var  kyogre_primal   ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -3939,7 +3957,7 @@ var  kyurem_black  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -3955,13 +3973,13 @@ var  kyurem_black  ={
 var   kyurem_white  ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -3972,8 +3990,8 @@ var   kyurem_white  ={
 var  landorus   ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -3990,7 +4008,7 @@ var  landorus_therian   ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -4075,7 +4093,7 @@ var  latios  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -4092,12 +4110,12 @@ var  latios_mega  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -4278,8 +4296,8 @@ var lucario  ={
 var lucario_mega  ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -4312,13 +4330,13 @@ var  ludicolo ={
 var  lugia ={
     "metagame": {
         "uber": true,
-        "ou": true,
+        "ou": false,
         "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -4346,13 +4364,13 @@ var  lumineon ={
 var  lunala ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -4483,7 +4501,7 @@ var  magearna ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -4585,13 +4603,13 @@ var  manaphy ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
         "beta": true,
-        "gamma": false,
+        "gamma": true,
         "delta": false,
         "epsilon": false,
         "zeta": false,
@@ -4636,7 +4654,7 @@ var  manectric_mega ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -4704,15 +4722,15 @@ var marowak_a ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
         "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
+        "gamma": true,
+        "delta": true,
+        "epsilon": true,
         "zeta": false,
     },
     "icon": "<i class='pk marowak-a'></i>"
@@ -4772,7 +4790,7 @@ var mawile_mega ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -4806,13 +4824,13 @@ var medicham_mega ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
         "beta": true,
-        "gamma": false,
+        "gamma": true,
         "delta": false,
         "epsilon": false,
         "zeta": false,
@@ -4924,8 +4942,8 @@ var metagross ={
 var metagross_mega ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false
         "ru": false,
         "nu": false,
         "pu": false,
@@ -4942,13 +4960,13 @@ var mew ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
         "beta": true,
-        "gamma": false,
+        "gamma": true,
         "delta": false,
         "epsilon": false,
         "zeta": false,
@@ -4958,13 +4976,13 @@ var mew ={
 var mewtwo ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -4975,13 +4993,13 @@ var mewtwo ={
 var mewtwo_mega_x ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -4992,13 +5010,13 @@ var mewtwo_mega_x ={
 var mewtwo_mega_y ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -5078,13 +5096,13 @@ var mimikyu ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
         "beta": true,
-        "gamma": false,
+        "gamma": true,
         "delta": false,
         "epsilon": false,
         "zeta": false,
@@ -5316,7 +5334,7 @@ var nihilego ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -5553,13 +5571,13 @@ var pachirisu  ={
 var palkia ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -5689,8 +5707,8 @@ var persian_a ={
 var pheromosa ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -5809,7 +5827,7 @@ var pinsir_mega ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -6165,13 +6183,13 @@ var raticate_a ={
 var rayquaza ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -6181,14 +6199,14 @@ var rayquaza ={
 }; pokemon.push(rayquaza);
 var rayquaza_mega ={
     "metagame": {
-        "uber": true,
-        "ou": true,
-        "uu": true,
+        "uber": false,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -6284,13 +6302,13 @@ var relicanth ={
 var reshiram  ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -6472,7 +6490,7 @@ var rotom_wash ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -6523,7 +6541,7 @@ var salamence ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -6539,13 +6557,13 @@ var salamence ={
 var salamence_mega ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -6913,13 +6931,13 @@ var shaymin ={
 var shaymin_sky ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -7253,13 +7271,13 @@ var snorlax ={
 var solgaleo ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -8681,13 +8699,13 @@ var xatu ={
 var xerneas ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -8732,13 +8750,13 @@ var yanmega ={
 var yveltal ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -8800,13 +8818,13 @@ var zebstrika ={
 var zekrom ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
@@ -8868,13 +8886,13 @@ var zygarde_50 ={
 var zygarde_complete ={
     "metagame": {
         "uber": true,
-        "ou": true,
-        "uu": true,
+        "ou": false,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
+        "beta": false,
         "gamma": false,
         "delta": false,
         "epsilon": false,
