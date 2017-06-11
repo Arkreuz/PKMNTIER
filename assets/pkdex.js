@@ -1791,7 +1791,7 @@ var   doublade  ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true+,
+        "ru": true,
         "nu": false,
         "pu": false,
         "alpha": true,
@@ -3115,7 +3115,7 @@ var   groudon  ={
 }; pokemon.push(groudon);
 var   groudon_primal  ={
     "metagame": {
-        "uber": true;
+        "uber": true,
         "ou": false,
         "uu": false,
         "ru": false,
