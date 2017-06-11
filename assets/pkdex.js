@@ -4937,7 +4937,7 @@ var metagross_mega ={
     "metagame": {
         "uber": true,
         "ou": false,
-        "uu": false
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -6332,15 +6332,15 @@ var rhydon ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
-        "nu": false,
-        "pu": false,
+        "ru": true,
+        "nu": true,
+        "pu": true,
         "alpha": true,
         "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "gamma": true,
+        "delta": true,
+        "epsilon": true,
+        "zeta": true,
     },
     "icon": "<i class='pk rhydon'></i>"
 }; pokemon.push(rhydon);
