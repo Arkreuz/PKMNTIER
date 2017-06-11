@@ -8183,7 +8183,7 @@ var unown ={
         "epsilon": false,
         "zeta": false,
     },
-    "icon": "<i class='pk unown-a'></i>"
+    "icon": "<i class='pk unown'></i>"
 }; pokemon.push(unown);
 var ursaring  ={
     "metagame": {
