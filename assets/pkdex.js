@@ -1628,7 +1628,7 @@ var   deoxys_speed  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true;
+        "alpha": true,
         "beta": false,
         "gamma": false,
         "delta": false,
