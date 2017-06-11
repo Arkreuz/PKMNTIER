@@ -24,12 +24,12 @@ and (orientation: portrait) {
         height: 200px;
         text-align-last:center;
         -moz-text-align-last: center;
+        border-radius: 5px
     }
 
 
     .dropbtn{
         border-radius: 5px;
-        text-align: center;
     }
 
 }
