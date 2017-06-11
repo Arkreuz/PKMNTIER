@@ -857,7 +857,10 @@ background: url(../dex/luvdisc.png);
 .luxray{
 background: url(../dex/luxray.png);
 }
-.lycanroc{
+.lycanroc-midday{
+background: url(../dex/lycanroc-midday.png);
+}
+.lycanroc-midnight{
 background: url(../dex/lycanroc-midnight.png);
 }
 .machamp{
@@ -898,6 +901,9 @@ background: url(../dex/manectric-mega.png);
 }
 .mantine{
 background: url(../dex/mantine.png);
+}
+.maractus{
+background: url(../dex/maractus.png);
 }
 .marowak{
 background: url(../dex/marowak.png);
@@ -982,6 +988,9 @@ background: url(../dex/mismagius.png);
 }
 .moltres{
 background: url(../dex/moltres.png);
+}
+.mothim{
+background: url(../dex/mothim.png);
 }
 .mr-mime{
 background: url(../dex/mr-mime.png);
@@ -1097,6 +1106,9 @@ background: url(../dex/pinsir.png);
 .pinsir-mega{
 background: url(../dex/pinsir-mega.png);
 }
+.plusle{
+background: url(../dex/plusle.png);
+}
 .politoed{
 background: url(../dex/politoed.png);
 }
@@ -1174,7 +1186,7 @@ background: url(../dex/regirock.png);
 background: url(../dex/registeel.png);
 }
 .relicanth{
-background: url(../dex/relicath.png);
+background: url(../dex/relicanth.png);
 }
 .reshiram{
 background: url(../dex/reshiram.png);
@@ -1227,6 +1239,9 @@ background: url(../dex/salamence.png);
 .salamence-mega{
 background: url(../dex/salamence-mega.png);
 }
+.salandit{
+background: url(../dex/salandit.png);
+}
 .salazzle{
 background: url(../dex/salazzle.png);
 }
@@ -1243,7 +1258,7 @@ background: url(../dex/sandslash-a.png);
 background: url(../dex/sawk.png);
 }
 .sawsbuck{
-background: url(../dex/sawsbuck-winter.png);
+background: url(../dex/sawsbuck-autumn.png);
 }
 .sceptile{
 background: url(../dex/sceptile.png);
@@ -1311,8 +1326,14 @@ background: url(../dex/sigilyph.png);
 .silvally{
 background: url(../dex/silvally.png);
 }
+.simipour{
+background: url(../dex/simipour.png);
+}
 .simisear{
 background: url(../dex/simisear.png);
+}
+.simisage{
+background: url(../dex/simisage.png);
 }
 .skarmory{
 background: url(../dex/skarmory.png);
@@ -1507,7 +1528,7 @@ background: url(../dex/umbreon.png);
 background: url(../dex/unfezant.png);
 }
 .unown{
-background: url(../dex/unown-h.png);
+background: url(../dex/unown-a.png);
 }
 .ursaring{
 background: url(../dex/ursaring.png);
@@ -1552,7 +1573,7 @@ background: url(../dex/vileplume.png);
 background: url(../dex/virizion.png);
 }
 .vivillon{
-background: url(../dex/vivillon-sun.png);
+background: url(../dex/vivillon.png);
 }
 .volbeat{
 background: url(../dex/volbeat.png);
@@ -1602,7 +1623,7 @@ background: url(../dex/wormadam-trash.png);
 .xatu{
 background: url(../dex/xatu.png);
 }
-.xernas{
+.xerneas{
 background: url(../dex/xerneas.png);
 }
 .xurkitree{
@@ -1619,6 +1640,9 @@ background: url(../dex/zangoose.png);
 }
 .zapdos{
 background: url(../dex/zapdos.png);
+}
+.zebstrika{
+background: url(../dex/zebstrika.png);
 }
 .zekrom{
 background: url(../dex/zekrom.png);
