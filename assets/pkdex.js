@@ -2278,7 +2278,7 @@ var   exploud  ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": true,
+        "nu": false,
         "pu": false,
         "alpha": true,
         "beta": true,
