@@ -939,7 +939,7 @@ var  butterfree   ={
 var  buzzwole   ={
     "metagame": {
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -2017,7 +2017,7 @@ var   dusclops  ={
     },
     "icon": "<i class='pk dusclops'></i>"
 }; pokemon.push(dusclops);
-var   dusknoir  ={
+var  dusknoir  ={
     "metagame": {
         "uber": true,
         "ou": true,
@@ -4810,7 +4810,7 @@ var marowak_a ={
 var marshadow ={
     "metagame": {
         "uber": true,
-        "ou": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
@@ -8653,7 +8653,7 @@ var weavile ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": false,
+        "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
