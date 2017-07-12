@@ -2834,7 +2834,7 @@ var  gumshoos   ={
         "ru": true,
         "nu": true,
         "pu": true,
-
+    },
     "icon": "<i class='pk gumshoos'></i>"
 }; pokemon.push(gumshoos);
 var   guzzlord  ={
@@ -3268,7 +3268,6 @@ var  jellicent   ={
         "ru": true,
         "nu": true,
         "pu": true,
-,
     },
     "icon": "<i class='pk jellicent'></i>"
 }; pokemon.push(jellicent);
@@ -3442,7 +3441,7 @@ var   kingler  ={
         "ru": true,
         "nu": true,
         "pu": true,
-
+    },
     "icon": "<i class='pk kingler'></i>"
 }; pokemon.push(kingler);
 var  klefki   ={
@@ -3664,7 +3663,7 @@ var  lanturn  ={
         "ru": true,
         "nu": true,
         "pu": true,
-
+    },
     "icon": "<i class='pk lanturn'></i>"
 }; pokemon.push(lanturn);
 var   lapras  ={
@@ -3803,7 +3802,7 @@ var  liepard ={
         "ru": true,
         "nu": true,
         "pu": true,
-
+    },
     "icon": "<i class='pk liepard'></i>"
 }; pokemon.push(liepard);
 var lilligant  ={
@@ -3930,7 +3929,7 @@ var  lumineon ={
         "ru": true,
         "nu": true,
         "pu": true,
-
+    },
     "icon": "<i class='pk lumineon'></i>"
 }; pokemon.push(lumineon);
 var  lunala ={
@@ -4231,7 +4230,7 @@ var marowak ={
         "ru": true,
         "nu": true,
         "pu": true,
-,
+
     },
     "icon": "<i class='pk marowak'></i>"
 }; pokemon.push(marowak);
@@ -4688,7 +4687,7 @@ var muk ={
         "ru": true,
         "nu": true,
         "pu": true,
-
+    },
     "icon": "<i class='pk muk'></i>"
 }; pokemon.push(muk);
 var muk_a ={
@@ -5377,7 +5376,7 @@ var rapidash ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,,
+        "pu": true,
     },
     "icon": "<i class='pk rapidash'></i>"
 }; pokemon.push(rapidash);
