@@ -7,12 +7,8 @@ var abomasnow = {
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk abomasnow img-responsive'></i>"
 };pokemon.push(abomasnow);
@@ -137,12 +133,8 @@ var aggron = {
         "uu": true,
         "ru":true,
         "nu": true,
-        "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk aggron'></i>"
 }; pokemon.push(aggron);
@@ -221,11 +213,7 @@ var altaria = {
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk altaria'></i>"
 }; pokemon.push(altaria);
@@ -285,11 +273,7 @@ var ampharos = {
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk ampharos'></i>"
 }; pokemon.push(ampharos);
@@ -334,11 +318,7 @@ var arbok = {
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk arbok'></i>"
 }; pokemon.push(arbok);
@@ -401,11 +381,7 @@ var  ariados= {
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk ariados'></i>"
 }; pokemon.push(ariados);
@@ -417,11 +393,7 @@ var   armaldo = {
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk armaldo'></i>"
 }; pokemon.push(armaldo);
@@ -449,11 +421,7 @@ var  articuno = {
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk articuno'></i>"
 }; pokemon.push(articuno);
@@ -465,11 +433,7 @@ var  audino = {
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk audino'></i>"
 }; pokemon.push(audino);
@@ -497,12 +461,8 @@ var  aurorus= {
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk aurorus'></i>"
 }; pokemon.push(aurorus);
@@ -515,11 +475,7 @@ var  avalugg = {
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk avalugg'></i>"
 }; pokemon.push(avalugg);
@@ -562,11 +518,7 @@ var  banette ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk banette'></i>"
 }; pokemon.push(banette);
@@ -591,12 +543,8 @@ var  barbaracle ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk barbaracle'></i>"
 }; pokemon.push(barbaracle);
@@ -607,11 +555,7 @@ var   basculin_blue={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk basculin'></i>"
 }; pokemon.push(basculin_blue);
@@ -622,11 +566,7 @@ var   bastiodon={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk bastiodon'></i>"
 }; pokemon.push(bastiodon);
@@ -637,11 +577,7 @@ var   beartic={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk beartic'></i>"
 }; pokemon.push(beartic);
@@ -653,11 +589,7 @@ var   beautifly={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk beautifly'></i>"
 }; pokemon.push(beautifly);
@@ -669,11 +601,7 @@ var   beedrill={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk beedrill'></i>"
 }; pokemon.push(beedrill);
@@ -699,11 +627,7 @@ var   beheeyem={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk beheeyem'></i>"
 }; pokemon.push(beheeyem);
@@ -714,11 +638,7 @@ var   bellossom={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk bellossom'></i>"
 }; pokemon.push(bellossom);
@@ -744,11 +664,7 @@ var   bibarel={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk bibarel'></i>"
 }; pokemon.push(bibarel);
@@ -853,11 +769,7 @@ var  bouffalant  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk bouffalant'></i>"
 }; pokemon.push(bouffalant);
@@ -928,11 +840,7 @@ var  butterfree   ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk butterfree'></i>"
 }; pokemon.push(butterfree);
@@ -958,11 +866,7 @@ var   cacturne  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk cacturne'></i>"
 }; pokemon.push(cacturne);
@@ -973,11 +877,7 @@ var camerupt    ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk camerupt'></i>"
 }; pokemon.push(camerupt);
@@ -1003,11 +903,7 @@ var   carbink  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk carbink'></i>"
 }; pokemon.push(carbink);
@@ -1018,11 +914,7 @@ var   carnivine  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk carnivine'></i>"
 }; pokemon.push(carnivine);
@@ -1033,11 +925,7 @@ var  carracosta   ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk carracosta'></i>"
 }; pokemon.push(carracosta);
@@ -1048,11 +936,7 @@ var   castform  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk castform'></i>"
 }; pokemon.push(castform);
@@ -1126,12 +1010,8 @@ var   charizard  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk charizard'></i>"
 }; pokemon.push(charizard);
@@ -1175,11 +1055,7 @@ var   chatot  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk chatot'></i>"
 }; pokemon.push(chatot);
@@ -1191,11 +1067,7 @@ var   cherrim  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk cherrim-sunshine'></i>"
 }; pokemon.push(cherrim);
@@ -1222,11 +1094,7 @@ var   chimecho  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk chimecho'></i>"
 }; pokemon.push(chimecho);
@@ -1236,12 +1104,8 @@ var   cinccino  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk cinccino'></i>"
 }; pokemon.push(cinccino);
@@ -1376,11 +1240,7 @@ var   corsola  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk corsola'></i>"
 }; pokemon.push(corsola);
@@ -1390,12 +1250,8 @@ var   crabominable  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk crabominable'></i>"
 }; pokemon.push(crabominable);
@@ -1405,12 +1261,8 @@ var   cradily  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk cradily'></i>"
 }; pokemon.push(cradily);
@@ -1466,11 +1318,7 @@ var   crustle  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk crustle'></i>"
 }; pokemon.push(crustle);
@@ -1543,11 +1391,7 @@ var   dedenne ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk dedenne'></i>"
 }; pokemon.push(dedenne);
@@ -1558,11 +1402,7 @@ var   delcatty ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk delcatty'></i>"
 }; pokemon.push(delcatty);
@@ -1573,11 +1413,7 @@ var   delibird ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk delibird'></i>"
 }; pokemon.push(delibird);
@@ -1671,11 +1507,7 @@ var   dewgong={
         "ru": true,
         "nu": true,
         "pu": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk dewgong'></i>"
 }; pokemon.push(dewgong);
@@ -1770,12 +1602,7 @@ var   ditto  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk ditto'></i>"
 }; pokemon.push(ditto);
@@ -1871,13 +1698,8 @@ var   drampa  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk drampa'></i>"
 }; pokemon.push(drampa);
@@ -1906,12 +1728,7 @@ var   drifblim  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk drifblim'></i>"
 }; pokemon.push(drifblim);
@@ -1956,13 +1773,8 @@ var   dugtrio_a  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk dugtrio-a'></i>"
 }; pokemon.push(dugtrio_a);
@@ -1974,12 +1786,7 @@ var   dunsparce ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk dunsparce'></i>"
 }; pokemon.push(dunsparce);
@@ -2008,12 +1815,7 @@ var   dusclops  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk dusclops'></i>"
 }; pokemon.push(dusclops);
@@ -2025,12 +1827,7 @@ var  dusknoir  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk dusknoir'></i>"
 }; pokemon.push(dusknoir);
@@ -2042,12 +1839,7 @@ var   dustox  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk dustox'></i>"
 }; pokemon.push(dustox);
@@ -2058,13 +1850,8 @@ var   eelektross  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk eelektross'></i>"
 }; pokemon.push(eelektross);
@@ -2092,13 +1879,8 @@ var   electivire  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk electivire'></i>"
 }; pokemon.push(electivire);
@@ -2110,12 +1892,7 @@ var   electrode  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk electrode'></i>"
 }; pokemon.push(electrode);
@@ -2144,12 +1921,7 @@ var   emolga  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk emolga'></i>"
 }; pokemon.push(emolga);
@@ -2246,12 +2018,7 @@ var  exeggutor   ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk exeggutor'></i>"
 }; pokemon.push(exeggutor);
@@ -2262,13 +2029,8 @@ var  exeggutor_a   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk exeggutor-a'></i>"
 }; pokemon.push(exeggutor_a);
@@ -2297,12 +2059,7 @@ var  farfetchd   ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk farfetchd'></i>"
 }; pokemon.push(farfetchd);
@@ -2314,12 +2071,7 @@ var  fearow   ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk fearow'></i>"
 }; pokemon.push(fearow);
@@ -2382,12 +2134,7 @@ var   flareon  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk flareon'></i>"
 }; pokemon.push(flareon);
@@ -2399,12 +2146,7 @@ var  floatzel   ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk floatzel'></i>"
 }; pokemon.push(floatzel);
@@ -2484,12 +2226,7 @@ var   furfrou  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk furfrou'></i>"
 }; pokemon.push(furfrou);
@@ -2501,12 +2238,7 @@ var   furret  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk furret'></i>"
 }; pokemon.push(furret);
@@ -2517,13 +2249,8 @@ var  gallade   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk gallade'></i>"
 }; pokemon.push(gallade);
@@ -2653,13 +2380,8 @@ var  gastrodon   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk gastrodon'></i>"
 }; pokemon.push(gastrodon);
@@ -2740,12 +2462,7 @@ var   girafarig  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk girafarig'></i>"
 }; pokemon.push(girafarig);
@@ -2791,12 +2508,7 @@ var  glaceon   ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk glaceon'></i>"
 }; pokemon.push(glaceon);
@@ -2808,12 +2520,7 @@ var   glalie  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk glalie'></i>"
 }; pokemon.push(glalie);
@@ -2876,12 +2583,7 @@ var   gogoat  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk gogoat'></i>"
 }; pokemon.push(gogoat);
@@ -2907,15 +2609,10 @@ var   golduck  ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
-        "nu": false,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "ru": true,
+        "nu": true,
+        "pu": true,
+
     },
     "icon": "<i class='pk golduck'></i>"
 }; pokemon.push(golduck);
@@ -2927,12 +2624,7 @@ var   golem  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk golem'></i>"
 }; pokemon.push(golem);
@@ -2942,14 +2634,9 @@ var  golem_a   ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "nu": true,
+        "pu": true,
+
     },
     "icon": "<i class='pk golem-a'></i>"
 }; pokemon.push(golem_a);
@@ -2977,13 +2664,8 @@ var   golurk  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk golurk'></i>"
 }; pokemon.push(golurk);
@@ -3012,12 +2694,7 @@ var   gorebyss  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk gorebyss'></i>"
 }; pokemon.push(gorebyss);
@@ -3029,12 +2706,7 @@ var   gothitelle  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk gothitelle'></i>"
 }; pokemon.push(gothitelle);
@@ -3046,12 +2718,7 @@ var   gourgeist  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk gourgeist'></i>"
 }; pokemon.push(gourgeist);
@@ -3062,13 +2729,8 @@ var  granbull   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk granbull'></i>"
 }; pokemon.push(granbull);
@@ -3080,12 +2742,7 @@ var   graveler_a  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk graveler-a'></i>"
 }; pokemon.push(graveler_a);
@@ -3165,12 +2822,7 @@ var   grumpig  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk grumpig'></i>"
 }; pokemon.push(grumpig);
@@ -3181,14 +2833,8 @@ var  gumshoos   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
-    },
+        "pu": true,
+
     "icon": "<i class='pk gumshoos'></i>"
 }; pokemon.push(gumshoos);
 var   guzzlord  ={
@@ -3198,13 +2844,7 @@ var   guzzlord  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk guzzlord'></i>"
 }; pokemon.push(guzzlord);
@@ -3249,13 +2889,8 @@ var   hariyama  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk hariyama'></i>"
 }; pokemon.push(hariyama);
@@ -3302,12 +2937,6 @@ var   heatmor  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk heatmor'></i>"
 }; pokemon.push(heatmor);
@@ -3403,13 +3032,8 @@ var  hitmonchan   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk hitmonchan'></i>"
 }; pokemon.push(hitmonchan);
@@ -3557,12 +3181,7 @@ var   huntail  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk huntail'></i>"
 }; pokemon.push(huntail);
@@ -3591,12 +3210,7 @@ var   hypno  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk hypno'></i>"
 }; pokemon.push(hypno);
@@ -3608,12 +3222,7 @@ var  illumise  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk illumise'></i>"
 }; pokemon.push(illumise);
@@ -3658,13 +3267,8 @@ var  jellicent   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+,
     },
     "icon": "<i class='pk jellicent'></i>"
 }; pokemon.push(jellicent);
@@ -3710,12 +3314,7 @@ var   jumpluff  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk jumpluff'></i>"
 }; pokemon.push(jumpluff);
@@ -3726,13 +3325,8 @@ var   jynx  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk jynx'></i>"
 }; pokemon.push(jynx);
@@ -3743,13 +3337,8 @@ var  kabutops   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk kabutops'></i>"
 }; pokemon.push(kabutops);
@@ -3760,13 +3349,8 @@ var   kangaskhan  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk kangaskhan'></i>"
 }; pokemon.push(kangaskhan);
@@ -3811,13 +3395,8 @@ var   kecleon  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk kecleon'></i>"
 }; pokemon.push(kecleon);
@@ -3861,15 +3440,9 @@ var   kingler  ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
+        "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
-    },
+
     "icon": "<i class='pk kingler'></i>"
 }; pokemon.push(kingler);
 var  klefki   ={
@@ -3896,13 +3469,8 @@ var  klinklang   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk klinklang'></i>"
 }; pokemon.push(klinklang);
@@ -3948,12 +3516,7 @@ var   kricketune  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk kricketune'></i>"
 }; pokemon.push(kricketune);
@@ -4100,14 +3663,8 @@ var  lanturn  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
-    },
+        "pu": true,
+
     "icon": "<i class='pk lanturn'></i>"
 }; pokemon.push(lanturn);
 var   lapras  ={
@@ -4118,12 +3675,7 @@ var   lapras  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk lapras'></i>"
 }; pokemon.push(lapras);
@@ -4203,12 +3755,7 @@ var leafeon  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk leafeon'></i>"
 }; pokemon.push(leafeon);
@@ -4220,12 +3767,7 @@ var  leavanny ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk leavanny'></i>"
 }; pokemon.push(leavanny);
@@ -4237,12 +3779,7 @@ var  ledian ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk ledian'></i>"
 }; pokemon.push(ledian);
@@ -4254,12 +3791,7 @@ var lickilicky  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk lickilicky'></i>"
 }; pokemon.push(lickilicky);
@@ -4270,14 +3802,8 @@ var  liepard ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
-    },
+        "pu": true,
+
     "icon": "<i class='pk liepard'></i>"
 }; pokemon.push(liepard);
 var lilligant  ={
@@ -4287,13 +3813,8 @@ var lilligant  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk lilligant'></i>"
 }; pokemon.push(lilligant);
@@ -4305,12 +3826,7 @@ var linoone  ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk linoone'></i>"
 }; pokemon.push(linoone);
@@ -4322,12 +3838,7 @@ var  lopunny ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk lopunny'></i>"
 }; pokemon.push(lopunny);
@@ -4389,13 +3900,8 @@ var  ludicolo ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk ludicolo'></i>"
 }; pokemon.push(ludicolo);
@@ -4424,13 +3930,7 @@ var  lumineon ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
-    },
+
     "icon": "<i class='pk lumineon'></i>"
 }; pokemon.push(lumineon);
 var  lunala ={
@@ -4458,12 +3958,7 @@ var  lunatone ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk lunatone'></i>"
 }; pokemon.push(lunatone);
@@ -4474,13 +3969,8 @@ var lurantis  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk lurantis'></i>"
 }; pokemon.push(lurantis);
@@ -4492,12 +3982,7 @@ var luvdisc  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk luvdisc'></i>"
 }; pokemon.push(luvdisc);
@@ -4509,12 +3994,7 @@ var luxray  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk luxray'></i>"
 }; pokemon.push(luxray);
@@ -4525,13 +4005,8 @@ var lycanroc_midday  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk lycanroc-midday'></i>"
 }; pokemon.push(lycanroc_midday);
@@ -4560,12 +4035,7 @@ var magcargo  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk magcargo'></i>"
 }; pokemon.push(magcargo);
@@ -4593,13 +4063,8 @@ var magmortar  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk magmortar'></i>"
 }; pokemon.push(magmortar);
@@ -4644,13 +4109,8 @@ var  malamar ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk malamar'></i>"
 }; pokemon.push(malamar);
@@ -4712,13 +4172,8 @@ var  manectric ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk manectric'></i>"
 }; pokemon.push(manectric);
@@ -4764,12 +4219,7 @@ var maractus  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk maractus'></i>"
 }; pokemon.push(maractus);
@@ -4781,12 +4231,7 @@ var marowak ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+,
     },
     "icon": "<i class='pk marowak'></i>"
 }; pokemon.push(marowak);
@@ -4815,12 +4260,7 @@ var marshadow ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk marshadow'></i>"
 }; pokemon.push(marshadow);
@@ -4832,12 +4272,7 @@ var masquerain ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk masquerain'></i>"
 }; pokemon.push(masquerain);
@@ -4849,12 +4284,7 @@ var mawile ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk mawile'></i>"
 }; pokemon.push(mawile);
@@ -4917,12 +4347,7 @@ var meganium ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk meganium'></i>"
 }; pokemon.push(meganium);
@@ -4951,12 +4376,7 @@ var meowstic_female ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk meowstic-female'></i>"
 }; pokemon.push(meowstic_female);
@@ -4968,12 +4388,7 @@ var meowstic_male ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk meowstic-male'></i>"
 }; pokemon.push(meowstic_male);
@@ -4984,13 +4399,8 @@ var mesprit ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk mesprit'></i>"
 }; pokemon.push(mesprit);
@@ -5121,12 +4531,7 @@ var mightyena ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk mightyena'></i>"
 }; pokemon.push(mightyena);
@@ -5154,13 +4559,8 @@ var miltank ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk miltank'></i>"
 }; pokemon.push(miltank);
@@ -5206,12 +4606,7 @@ var minun ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk minun'></i>"
 }; pokemon.push(minun);
@@ -5257,12 +4652,7 @@ var mothim ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk mothim'></i>"
 }; pokemon.push(mothim);
@@ -5274,12 +4664,7 @@ var mr_mime ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk mr-mime'></i>"
 }; pokemon.push(mr_mime);
@@ -5290,13 +4675,8 @@ var mudsdale  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk mudsdale'></i>"
 }; pokemon.push(mudsdale);
@@ -5308,13 +4688,7 @@ var muk ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
-    },
+
     "icon": "<i class='pk muk'></i>"
 }; pokemon.push(muk);
 var muk_a ={
@@ -5342,12 +4716,7 @@ var musharna ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk musharna'></i>"
 }; pokemon.push(musharna);
@@ -5359,12 +4728,7 @@ var necrozma ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk necrozma'></i>"
 }; pokemon.push(necrozma);
@@ -5426,13 +4790,8 @@ var ninetales ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk ninetales'></i>"
 }; pokemon.push(ninetales);
@@ -5461,12 +4820,7 @@ var ninjask ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk ninjask'></i>"
 }; pokemon.push(ninjask);
@@ -5478,12 +4832,7 @@ var noctowl ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk noctowl'></i>"
 }; pokemon.push(noctowl);
@@ -5495,12 +4844,7 @@ var noivern ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk noivern'></i>"
 }; pokemon.push(noivern);
@@ -5509,15 +4853,10 @@ var octillery ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
-        "nu": false,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "ru": true,
+        "nu": true,
+        "pu": true,
+
     },
     "icon": "<i class='pk octillery'></i>"
 }; pokemon.push(octillery);
@@ -5545,13 +4884,8 @@ var oranguru ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk oranguru'></i>"
 }; pokemon.push(oranguru);
@@ -5562,13 +4896,8 @@ var oricorio_baile ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk oricorio-baile'></i>"
 }; pokemon.push(oricorio_baile);
@@ -5579,13 +4908,7 @@ var oricorio_pau ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+       "pu": true,
     },
     "icon": "<i class='pk oricorio-pau'></i>"
 }; pokemon.push(oricorio_pau);
@@ -5596,13 +4919,7 @@ var oricorio_pom ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+        "pu": true,
     },
     "icon": "<i class='pk oricorio-pom'></i>"
 }; pokemon.push(oricorio_pom);
@@ -5613,13 +4930,7 @@ var oricorio_sensu ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+        "pu": true,
     },
     "icon": "<i class='pk oricorio-sensu'></i>"
 }; pokemon.push(oricorio_sensu);
@@ -5631,12 +4942,6 @@ var pachirisu  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk pachirisu'></i>"
 }; pokemon.push(pachirisu);
@@ -5664,13 +4969,7 @@ var palossand ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk palossand'></i>"
 }; pokemon.push(palossand);
@@ -5699,12 +4998,6 @@ var parasect ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk parasect'></i>"
 }; pokemon.push(parasect);
@@ -5715,13 +5008,7 @@ var passimian ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk passimian'></i>"
 }; pokemon.push(passimian);
@@ -5733,12 +5020,7 @@ var pelipper ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk pelipper'></i>"
 }; pokemon.push(pelipper);
@@ -5750,12 +5032,6 @@ var persian ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk persian'></i>"
 }; pokemon.push(persian);
@@ -5766,13 +5042,7 @@ var persian_a ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+        "pu": true,
     },
     "icon": "<i class='pk persian-a'></i>"
 }; pokemon.push(persian_a);
@@ -5801,12 +5071,6 @@ var phione ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk phione'></i>"
 }; pokemon.push(phione);
@@ -5818,12 +5082,7 @@ var pidgeot ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk pidgeot'></i>"
 }; pokemon.push(pidgeot);
@@ -5852,12 +5111,6 @@ var pikachu ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk pikachu'></i>"
 }; pokemon.push(pikachu);
@@ -5885,13 +5138,7 @@ var pinsir ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk pinsir'></i>"
 }; pokemon.push(pinsir);
@@ -5920,12 +5167,6 @@ var plusle ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk plusle'></i>"
 }; pokemon.push(plusle);
@@ -5936,13 +5177,7 @@ var politoed ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk politoed'></i>"
 }; pokemon.push(politoed);
@@ -5953,13 +5188,7 @@ var poliwrath ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk poliwrath'></i>"
 }; pokemon.push(poliwrath);
@@ -6021,13 +5250,7 @@ var primeape ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk primeape'></i>"
 }; pokemon.push(primeape);
@@ -6039,12 +5262,6 @@ var probopass ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk probopass'></i>"
 }; pokemon.push(probopass);
@@ -6056,12 +5273,6 @@ var purugly ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk purugly'></i>"
 }; pokemon.push(purugly);
@@ -6072,13 +5283,7 @@ var pyroar ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk pyroar'></i>"
 }; pokemon.push(pyroar);
@@ -6089,13 +5294,7 @@ var pyukumuku ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk pyukumuku'></i>"
 }; pokemon.push(pyukumuku);
@@ -6106,13 +5305,7 @@ var quagsire ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk quagsire'></i>"
 }; pokemon.push(quagsire);
@@ -6123,13 +5316,7 @@ var qwilfish ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk qwilfish'></i>"
 }; pokemon.push(qwilfish);
@@ -6141,12 +5328,6 @@ var raichu ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
     },
     "icon": "<i class='pk raichu'></i>"
 }; pokemon.push(raichu);
@@ -6157,13 +5338,7 @@ var raichu_a  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk raichu-a'></i>"
 }; pokemon.push(raichu_a);
@@ -6192,12 +5367,6 @@ var rampardos ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
     },
     "icon": "<i class='pk rampardos'></i>"
 }; pokemon.push(rampardos);
@@ -6208,13 +5377,7 @@ var rapidash ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,,
     },
     "icon": "<i class='pk rapidash'></i>"
 }; pokemon.push(rapidash);
@@ -6226,12 +5389,6 @@ var raticate ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk raticate'></i>"
 }; pokemon.push(raticate);
@@ -6242,13 +5399,7 @@ var raticate_a ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+        "pu": true,
     },
     "icon": "<i class='pk raticate-a'></i>"
 }; pokemon.push(raticate_a);
@@ -6294,12 +5445,6 @@ var regice ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
     },
     "icon": "<i class='pk regice'></i>"
 }; pokemon.push(regice);
@@ -6311,12 +5456,6 @@ var regigigas ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
     },
     "icon": "<i class='pk regigigas'></i>"
 }; pokemon.push(regigigas);
@@ -6327,13 +5466,7 @@ var regirock ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk regirock'></i>"
 }; pokemon.push(regirock);
@@ -6362,12 +5495,6 @@ var relicanth ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk relicanth'></i>"
 }; pokemon.push(relicanth);
@@ -6464,12 +5591,6 @@ var ribombee = {
             "ru": true,
             "nu": true,
             "pu": true,
-            "alpha": true,
-            "beta": true,
-            "gamma": true,
-            "delta": true,
-            "epsilon": true,
-            "zeta": true,
         },
     "icon": "<i class='pk roselia'></i>"
 }; pokemon.push(roselia);
@@ -6497,13 +5618,7 @@ var rotom ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk rotom'></i>"
 }; pokemon.push(rotom);
@@ -6532,12 +5647,6 @@ var rotom_frost ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk rotom-frost'></i>"
 }; pokemon.push(rotom_frost);
@@ -6599,13 +5708,7 @@ var sableye ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk sableye'></i>"
 }; pokemon.push(sableye);
@@ -6668,12 +5771,7 @@ var salandit ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk salandit'></i>"
 }; pokemon.push(salandit);
@@ -6701,13 +5799,7 @@ var samurott ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk samurott'></i>"
 }; pokemon.push(samurott);
@@ -6718,13 +5810,7 @@ var sandslash ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk sandslash'></i>"
 }; pokemon.push(sandslash);
@@ -6735,13 +5821,7 @@ var sandslash_a ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk sandslash-a'></i>"
 }; pokemon.push(sandslash_a);
@@ -6752,13 +5832,7 @@ var sawk ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk sawk'></i>"
 }; pokemon.push(sawk);
@@ -6770,12 +5844,7 @@ var sawsbuck ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk sawsbuck'></i>"
 }; pokemon.push(sawsbuck);
@@ -6889,12 +5958,6 @@ var scyther ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
     },
     "icon": "<i class='pk scyther'></i>"
 }; pokemon.push(scyther);
@@ -6906,12 +5969,6 @@ var seaking ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk seaking'></i>"
 }; pokemon.push(seaking);
@@ -6957,12 +6014,6 @@ var seviper ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk seviper'></i>"
 }; pokemon.push(seviper);
@@ -7042,12 +6093,6 @@ var shedinja ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk shedinja'></i>"
 }; pokemon.push(shedinja);
@@ -7058,13 +6103,7 @@ var shiftry ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk shiftry'></i>"
 }; pokemon.push(shiftry);
@@ -7075,13 +6114,7 @@ var shiinotic  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk shiinotic'></i>"
 }; pokemon.push(shiinotic);
@@ -7126,13 +6159,7 @@ var silvally ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk silvally'></i>"
 }; pokemon.push(silvally);
@@ -7144,12 +6171,6 @@ var simipour ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
     },
     "icon": "<i class='pk simipour'></i>"
 }; pokemon.push(simipour);
@@ -7161,12 +6182,6 @@ var simisage ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
     },
     "icon": "<i class='pk simisage'></i>"
 }; pokemon.push(simisage);
@@ -7178,12 +6193,6 @@ var simisear ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
     },
     "icon": "<i class='pk simisear'></i>"
 }; pokemon.push(simisear);
@@ -7211,13 +6220,7 @@ var skuntank  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk skuntank'></i>"
 }; pokemon.push(skuntank);
@@ -7229,12 +6232,6 @@ var slaking ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
     },
     "icon": "<i class='pk slaking'></i>"
 }; pokemon.push(slaking);
@@ -7382,12 +6379,6 @@ var solrock ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk solrock'></i>"
 }; pokemon.push(solrock);
@@ -7399,12 +6390,6 @@ var spinda ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk spinda'></i>"
 }; pokemon.push(spinda);
@@ -7433,12 +6418,6 @@ var stantler ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk stantler'></i>"
 }; pokemon.push(stantler);
@@ -7517,13 +6496,7 @@ var stoutland ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+        "pu": true,
     },
     "icon": "<i class='pk stoutland'></i>"
 }; pokemon.push(stoutland);
@@ -7535,12 +6508,6 @@ var stunfisk ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk stunfisk'></i>"
 }; pokemon.push(stunfisk);
@@ -7552,12 +6519,6 @@ var sudowoodo ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
     },
     "icon": "<i class='pk sudowoodo'></i>"
 }; pokemon.push(sudowoodo);
@@ -7586,12 +6547,7 @@ var sunflora ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk sunflora'></i>"
 }; pokemon.push(sunflora);
@@ -7603,12 +6559,7 @@ var swalot ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk swalot'></i>"
 }; pokemon.push(swalot);
@@ -7654,12 +6605,7 @@ var swanna ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk swanna'></i>"
 }; pokemon.push(swanna);
@@ -7688,12 +6634,7 @@ var swoobat ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk swoobat'></i>"
 }; pokemon.push(swoobat);
@@ -7816,23 +6757,18 @@ var tapu_lele ={
     },
     "icon": "<i class='pk tapu-lele'></i>"
 }; pokemon.push(tapu_lele);
-var taurus ={
+var tauros ={
     "metagame": {
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
-        "nu": false,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "ru": true,
+        "nu": true,
+        "pu": true,
+
     },
-    "icon": "<i class='pk taurus'></i>"
-}; pokemon.push(taurus);
+    "icon": "<i class='pk tauros'></i>"
+}; pokemon.push(tauros);
 var tentacruel ={
     "metagame": {
         "uber": true,
@@ -7875,12 +6811,7 @@ var throh ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk throh'></i>"
 }; pokemon.push(throh);
@@ -7925,13 +6856,8 @@ var togedemaru ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+        "pu": true,
+
     },
     "icon": "<i class='pk togedemaru'></i>"
 }; pokemon.push(togedemaru);
@@ -7960,12 +6886,7 @@ var togetic ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk togetic'></i>"
 }; pokemon.push(togetic);
@@ -8027,13 +6948,8 @@ var torterra ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+        "pu": true,
+
     },
     "icon": "<i class='pk torterra'></i>"
 }; pokemon.push(torterra);
@@ -8044,13 +6960,8 @@ var toucannon ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk toucannon'></i>"
 }; pokemon.push(toucannon);
@@ -8096,12 +7007,7 @@ var trevenant ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk trevenant'></i>"
 }; pokemon.push(trevenant);
@@ -8113,12 +7019,7 @@ var tropius ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk tropius'></i>"
 }; pokemon.push(tropius);
@@ -8146,13 +7047,8 @@ var turtonator ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk turtonator'></i>"
 }; pokemon.push(turtonator);
@@ -8163,13 +7059,8 @@ var type_null ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk type-null'></i>"
 }; pokemon.push(type_null);
@@ -8180,13 +7071,8 @@ var typhlosion ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk typhlosion'></i>"
 }; pokemon.push(typhlosion);
@@ -8266,12 +7152,7 @@ var unfezant ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk unfezant'></i>"
 }; pokemon.push(unfezant);
@@ -8283,12 +7164,7 @@ var unown ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk unown'></i>"
 }; pokemon.push(unown);
@@ -8300,12 +7176,7 @@ var ursaring  ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk ursaring'></i>"
 }; pokemon.push(ursaring);
@@ -8331,15 +7202,10 @@ var vanilluxe ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
-        "nu": false,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "ru": true,
+        "nu": true,
+        "pu": true,
+
     },
     "icon": "<i class='pk vanilluxe'></i>"
 }; pokemon.push(vanilluxe);
@@ -8419,12 +7285,7 @@ var vespiquen ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk vespiquen'></i>"
 }; pokemon.push(vespiquen);
@@ -8453,12 +7314,7 @@ var victreebel ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk victreebel'></i>"
 }; pokemon.push(victreebel);
@@ -8470,12 +7326,7 @@ var vigoroth ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk vigoroth'></i>"
 }; pokemon.push(vigoroth);
@@ -8503,13 +7354,8 @@ var vileplume ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk vileplume'></i>"
 }; pokemon.push(vileplume);
@@ -8555,12 +7401,7 @@ var volbeat ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk volbeat'></i>"
 }; pokemon.push(volbeat);
@@ -8606,12 +7447,7 @@ var wailord ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk wailord'></i>"
 }; pokemon.push(wailord);
@@ -8623,12 +7459,7 @@ var walrein ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk walrein'></i>"
 }; pokemon.push(walrein);
@@ -8640,12 +7471,7 @@ var watchog ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk watchog'></i>"
 }; pokemon.push(watchog);
@@ -8673,13 +7499,8 @@ var weezing ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk weezing'></i>"
 }; pokemon.push(weezing);
@@ -8708,12 +7529,7 @@ var whiscash ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk whiscash'></i>"
 }; pokemon.push(whiscash);
@@ -8725,12 +7541,7 @@ var wigglytuff ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk wigglytuff'></i>"
 }; pokemon.push(wigglytuff);
@@ -8741,13 +7552,8 @@ var wishiwashi ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk wishiwashi'></i>"
 }; pokemon.push(wishiwashi);
@@ -8759,12 +7565,7 @@ var wobbuffet ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk wobbuffet'></i>"
 }; pokemon.push(wobbuffet);
@@ -8776,12 +7577,7 @@ var wormadam_plant ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk wormadam-plant'></i>"
 }; pokemon.push(wormadam_plant);
@@ -8793,12 +7589,7 @@ var wormadam_sandy ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk wormadam-sandy'></i>"
 }; pokemon.push(wormadam_sandy);
@@ -8810,12 +7601,7 @@ var wormadam_trash ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk wormadam-trash'></i>"
 }; pokemon.push(wormadam_trash);
@@ -8911,13 +7697,8 @@ var zangoose ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
+
     },
     "icon": "<i class='pk zangoose'></i>"
 }; pokemon.push(zangoose);
@@ -8946,12 +7727,7 @@ var zebstrika ={
         "ru": true,
         "nu": true,
         "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+
     },
     "icon": "<i class='pk zebstrika'></i>"
 }; pokemon.push(zebstrika);
