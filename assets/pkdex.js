@@ -2594,13 +2594,8 @@ var   golbat  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": false,
+
     },
     "icon": "<i class='pk golbat'></i>"
 }; pokemon.push(golbat);
@@ -5538,13 +5533,8 @@ var rhydon ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+        "pu": false,
+
     },
     "icon": "<i class='pk rhydon'></i>"
 }; pokemon.push(rhydon);
@@ -5617,7 +5607,7 @@ var rotom ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
+        "pu": false,
     },
     "icon": "<i class='pk rotom'></i>"
 }; pokemon.push(rotom);
