@@ -1193,13 +1193,9 @@ var   cofagrigus  ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": true,
+        "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk cofagrigus'></i>"
 }; pokemon.push(cofagrigus);
@@ -3141,13 +3137,7 @@ var  houndoom   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk houndoom'></i>"
 }; pokemon.push(houndoom);
@@ -3155,7 +3145,7 @@ var  houndoom_mega   ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
