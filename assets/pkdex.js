@@ -2972,7 +2972,7 @@ var   heracross  ={
         "uu": true,
         "ru": false,
         "nu": false,
-        "pu": false,
+        "pu": false
     },
     "icon": "<i class='pk heracross'></i>"
 }; pokemon.push(heracross);
@@ -2984,12 +2984,7 @@ var   heracross_mega  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk heracross-mega'></i>"
 }; pokemon.push(heracross_mega);
