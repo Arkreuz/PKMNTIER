@@ -81,67 +81,7 @@ else if (val === "pu") {
 }
 
 
-else if (val === "beta") {
 
-    $( "#display" ).empty();
-    for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].metagame.beta) {
-             loadPKMN(i);
-        }
-    }
-
-
-}
-
-else if (val === "gamma") {
-
-    $( "#display" ).empty();
-    for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].metagame.gamma) {
-             loadPKMN(i);
-        }
-    }
-
-
-}
-
-
-else if (val === "delta") {
-
-    $( "#display" ).empty();
-    for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].metagame.delta) {
-             loadPKMN(i);
-        }
-    }
-
-
-}
-
-
-else if (val === "epsilon") {
-
-    $( "#display" ).empty();
-    for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].metagame.epsilon) {
-             loadPKMN(i);
-        }
-    }
-
-
-}
-
-else if (val === "zeta") {
-
-    $( "#display" ).empty();
-    for (var i = 0; i < pokemon.length; i++) {
-        if (pokemon[i].metagame.zeta) {
-             loadPKMN(i);
-        }
-    }
-
-
-}
 
     });
 });
