@@ -1217,15 +1217,10 @@ var   comfey  ={
 var   conkeldurr  ={
     "metagame": {
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk conkeldurr'></i>"
 }; pokemon.push(conkeldurr);
@@ -1258,7 +1253,6 @@ var   cradily  ={
         "ru": true,
         "nu": true,
         "pu": true,
-
     },
     "icon": "<i class='pk cradily'></i>"
 }; pokemon.push(cradily);
@@ -1269,11 +1263,7 @@ var   crawdaunt ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk crawdaunt'></i>"
 }; pokemon.push(crawdaunt);
