@@ -143,15 +143,11 @@ var aggron = {
 var aggron_mega = {
     "metagame": {
         "ou": true,
-        "uu": false,
+        "uu": true,
         "ru":false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk aggron-mega'></i>"
 }; pokemon.push(aggron_mega);
@@ -442,14 +438,10 @@ var audino_mega = {
     "metagame": {
         "ou": true,
         "uu": true,
-        "ru": false,
+        "ru": true,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk audino-mega'></i>"
 }; pokemon.push(audino_mega);
@@ -525,7 +517,7 @@ var  banette ={
 var  banette_mega ={
     "metagame": {
         "ou": true,
-        "uu": false,
+        "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -884,7 +876,7 @@ var camerupt    ={
 var   camerupt_mega  ={
     "metagame": {
         "ou": true,
-        "uu": false,
+        "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -2235,7 +2227,7 @@ var  gallade   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
+        "pu": false,
 
     },
     "icon": "<i class='pk gallade'></i>"
@@ -3432,7 +3424,7 @@ var  klinklang   ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
+        "pu": false,
 
     },
     "icon": "<i class='pk klinklang'></i>"
@@ -4102,12 +4094,7 @@ var  manaphy ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk manaphy'></i>"
 }; pokemon.push(manaphy);
@@ -4320,14 +4307,9 @@ var meloetta ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": true,
+        "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk meloetta'></i>"
 }; pokemon.push(meloetta);
@@ -4979,7 +4961,7 @@ var pelipper ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -5483,15 +5465,10 @@ var  reuniclus ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk reuniclus'></i>"
 }; pokemon.push(reuniclus);
@@ -5790,7 +5767,7 @@ var sawk ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
+        "pu": false,
     },
     "icon": "<i class='pk sawk'></i>"
 }; pokemon.push(sawk);
@@ -6525,16 +6502,11 @@ var swampert ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk swampert'></i>"
 }; pokemon.push(swampert);
@@ -7342,12 +7314,7 @@ var vivillon ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk vivillon'></i>"
 }; pokemon.push(vivillon);
