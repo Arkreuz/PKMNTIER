@@ -32,7 +32,6 @@ var absol = {
         "ru": true,
         "nu": true,
         "pu": false,
-,
     },
     "icon": "<i class='pk absol'></i>"
 }; pokemon.push(absol);
