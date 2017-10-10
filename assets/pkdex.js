@@ -43,7 +43,7 @@ var absol_mega = {
         "ru": false,
         "nu": false,
         "pu": false,
-
+    },
     "icon": "<i class='pk absol-mega'></i>"
 }; pokemon.push(absol_mega);
 var accelgor = {
@@ -69,12 +69,7 @@ var aegislash = {
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon":false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk aegislash'></i>"
 }; pokemon.push(aegislash);
@@ -87,11 +82,7 @@ var aerodactyl = {
         "ru": true,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk aerodactyl'></i>"
 }; pokemon.push(aerodactyl);
@@ -103,11 +94,7 @@ var aerodactyl_mega = {
         "ru":false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk aerodactyl-mega'></i>"
 }; pokemon.push(aerodactyl_mega);
@@ -145,11 +132,7 @@ var alakazam = {
         "ru":false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk alakazam'></i>"
 }; pokemon.push(alakazam);
@@ -162,11 +145,7 @@ var alakazam_mega = {
         "ru":false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk alakazam-mega'></i>"
 }; pokemon.push(alakazam_mega);
@@ -178,11 +157,7 @@ var alomomola = {
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk alomomola'></i>"
 }; pokemon.push(alomomola);
@@ -221,11 +196,7 @@ var ambipom = {
         "ru": true,
         "nu": true,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk ambipom'></i>"
 }; pokemon.push(ambipom);
@@ -236,11 +207,7 @@ var amoonguss = {
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk amoonguss'></i>"
 }; pokemon.push(amoonguss);
@@ -276,11 +243,7 @@ var  araquanid = {
         "ru": true,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk araquanid'></i>"
 }; pokemon.push(araquanid);
