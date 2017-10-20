@@ -71,7 +71,7 @@ select{
     width: 100%
 }
 .dropbtn {
-    background-color:#5E2750;
+    background-color:#3465A4;
     color: white;
     padding: 16px;
     font-size: 250%;
@@ -82,7 +82,7 @@ border: none;
 }
 
 .dropbtn:hover, .dropbtn:focus {
-    background-color: #77216F;
+    background-color: #3465D4;
 }
 
 .dropdown {
@@ -152,7 +152,7 @@ border: none;
   font-size: 0.8rem;
   font-style: normal;
   font-weight: 200;
-  color: #5e2750;
+  color: #3465A4;
 }
 #header #nav ul {
   list-style-type: none;
@@ -168,13 +168,13 @@ border: none;
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: 100% 6px;
-  background-image: linear-gradient(transparent, transparent 5px, #5e2750 5px, #5e2750);
+  background-image: linear-gradient(transparent, transparent 5px, #3465A4 5px, #3465A4);
 }
 #header #nav ul li {
   display: inline-block;
   vertical-align: middle;
   margin-right: 15px;
-  border-right: 1px dotted #5e2750;
+  border-right: 1px dotted #3465A4;
 }
 #header #nav ul .icon {
   display: none;
@@ -233,7 +233,7 @@ border: none;
   background: none;
 }
 #header-post a.icon:hover {
-  color: rgba(94,39,80,0.8);
+  color: rgba(52,101,164, 0.8);
 }
 #header-post ol {
   list-style-type: none;
@@ -258,7 +258,7 @@ border: none;
   margin-right: 2rem;
 }
 #header-post #menu-icon:hover {
-  color: #5e2750;
+  color: #3465A4;
 }
 #header-post #menu-icon-tablet {
   float: right;
@@ -266,7 +266,7 @@ border: none;
   margin-right: 2rem;
 }
 #header-post #menu-icon-tablet:hover {
-  color: #5e2750;
+  color: #3465A4;
 }
 #header-post #top-icon-tablet {
   margin-left: 15px;
@@ -276,10 +276,10 @@ border: none;
   position: fixed;
 }
 #header-post #top-icon-tablet:hover {
-  color: #5e2750;
+  color: #3465A4;
 }
 #header-post .active {
-  color: #5e2750;
+  color: #3465A4;
 }
 #header-post #menu {
   visibility: hidden;
@@ -290,7 +290,7 @@ border: none;
   font-size: 0.8rem;
   font-style: normal;
   font-weight: 200;
-  color: #5e2750;
+  color: #3465A4;
 }
 #header-post #nav ul {
   line-height: 15px;
@@ -303,10 +303,10 @@ border: none;
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: 100% 6px;
-  background-image: linear-gradient(transparent, transparent 5px, #5e2750 5px, #5e2750);
+  background-image: linear-gradient(transparent, transparent 5px, #3465A4 5px, #3465A4);
 }
 #header-post #nav ul li {
-  border-right: 1px dotted #5e2750;
+  border-right: 1px dotted #3465A4;
 }
 #header-post #nav ul li:last-child {
   border-right: 0;
@@ -349,7 +349,7 @@ border: none;
   max-height: calc(95vh - 7rem);
 }
 #header-post #toc a:hover {
-  color: rgba(94,39,80,0.8);
+  color: rgba(52,101,164, 0.8);
 }
 #header-post #toc .toc-level-1 > .toc-link {
   display: none;
@@ -360,7 +360,7 @@ border: none;
 }
 #header-post #toc .toc-level-2:before {
   content: "#";
-  color: #5e2750;
+  color: #3465A4;
 }
 #header-post #toc .toc-level-3 {
   font-size: 0.7rem;
