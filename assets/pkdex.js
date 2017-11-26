@@ -1648,7 +1648,7 @@ var   dugtrio  ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
+        "ru": true,
         "nu": false,
         "pu": false,
 
@@ -4765,15 +4765,10 @@ var piloswine ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
-        "nu": false,
+        "ru": true,
+        "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk piloswine'></i>"
 }; pokemon.push(piloswine);
@@ -5929,7 +5924,7 @@ var smeargle ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
+        "ru": true,
         "nu": false,
         "pu": false,
 
@@ -6093,7 +6088,7 @@ var steelix_mega ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
+        "ru": true,
         "nu": false,
         "pu": false,
         "alpha": true,
