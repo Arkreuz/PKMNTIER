@@ -468,8 +468,8 @@ var  barbaracle ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": true,
-        "pu": true,
+        "nu": false,
+        "pu": false,
 
     },
     "icon": "<i class='pk barbaracle'></i>"
@@ -2153,12 +2153,7 @@ var   galvantula  ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk galvantula'></i>"
 }; pokemon.push(galvantula);
@@ -2170,12 +2165,7 @@ var  garbodor  ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk garbodor'></i>"
 }; pokemon.push(garbodor);
@@ -2187,12 +2177,7 @@ var   garchomp  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk garchomp'></i>"
 }; pokemon.push(garchomp);
@@ -2229,7 +2214,7 @@ var    gardevoir_mega ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -2859,12 +2844,7 @@ var   hippowdon  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk hippowdon'></i>"
 }; pokemon.push(hippowdon);
@@ -3102,7 +3082,7 @@ var  jirachi   ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -3501,7 +3481,7 @@ var  latias_mega  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -4381,6 +4361,18 @@ var musharna ={
     },
     "icon": "<i class='pk musharna'></i>"
 }; pokemon.push(musharna);
+var  naganadel  ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+
+    },
+    "icon": "<i class='pk naganadel'></i>"
+}; pokemon.push(garbodor);
 var necrozma ={
     "metagame": {
         "uber": true,
@@ -5545,12 +5537,6 @@ var scolipede ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk scolipede'></i>"
 }; pokemon.push(scolipede);
@@ -5562,12 +5548,7 @@ var scrafty ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk scrafty'></i>"
 }; pokemon.push(scrafty);
@@ -5601,13 +5582,7 @@ var seismitoad ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
-    },
+
     "icon": "<i class='pk seismitoad'></i>"
 }; pokemon.push(seismitoad);
 var serperior ={
@@ -5618,12 +5593,6 @@ var serperior ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk serperior'></i>"
 }; pokemon.push(serperior);
@@ -5643,15 +5612,10 @@ var sharpedo ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk sharpedo'></i>"
 }; pokemon.push(sharpedo);
@@ -5663,12 +5627,7 @@ var sharpedo_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk sharpedo-mega'></i>"
 }; pokemon.push(sharpedo_mega);
@@ -6929,7 +6888,7 @@ var weavile ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -7158,7 +7117,7 @@ var zoroark  ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
 
