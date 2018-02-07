@@ -194,8 +194,8 @@ var ambipom = {
     "metagame": {
         "ou": true,
         "uu": true,
-        "ru": true,
-        "nu": true,
+        "ru": false,
+        "nu": false,
         "pu": false,
 
     },
@@ -713,16 +713,11 @@ var braviary   ={
 var  breloom  ={
     "metagame": {
         "ou": true,
-        "uu": false,
+        "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
-    },
+
     "icon": "<i class='pk breloom'></i>"
 }; pokemon.push(breloom);
 var  bronzong  ={
@@ -1633,7 +1628,7 @@ var   dugtrio  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
+        "pu": true,
 
     },
     "icon": "<i class='pk dugtrio'></i>"
@@ -5711,7 +5706,7 @@ var smeargle ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
+        "pu": true,
 
     },
     "icon": "<i class='pk smeargle'></i>"
@@ -6232,7 +6227,7 @@ var torkoal ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
+        "pu": true,
 
     },
     "icon": "<i class='pk torkoal'></i>"
