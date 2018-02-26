@@ -1759,7 +1759,7 @@ var  emboar   ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": true,
+        "nu": false,
         "pu": false,
 
     },
@@ -4472,7 +4472,7 @@ var passimian ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
+        "pu": false,
     },
     "icon": "<i class='pk passimian'></i>"
 }; pokemon.push(passimian);
