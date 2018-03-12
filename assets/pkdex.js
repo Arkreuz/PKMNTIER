@@ -170,7 +170,7 @@ var altaria = {
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
+        "pu": false,
 
     },
     "icon": "<i class='pk altaria'></i>"
@@ -614,13 +614,8 @@ var  blastoise  ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
+        "nu": true,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk blastoise'></i>"
 }; pokemon.push(blastoise);
@@ -3583,7 +3578,6 @@ var lycanroc_midday  ={
         "ru": true,
         "nu": true,
         "pu": true,
-
     },
     "icon": "<i class='pk lycanroc-midday'></i>"
 }; pokemon.push(lycanroc_midday);
@@ -3680,17 +3674,10 @@ var mamoswine  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
-    },
     "icon": "<i class='pk mamoswine'></i>"
 }; pokemon.push(mamoswine);
 var  manaphy ={
@@ -5526,13 +5513,7 @@ var shuckle ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": true,
     },
     "icon": "<i class='pk shuckle'></i>"
 }; pokemon.push(shuckle);
@@ -6252,7 +6233,6 @@ var tornadus_therian ={
         "ru": false,
         "nu": false,
         "pu": false,
-
     },
     "icon": "<i class='pk tornadus-therian'></i>"
 }; pokemon.push(tornadus_therian);
@@ -6610,7 +6590,7 @@ var virizion ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": true,
+        "nu": false,
         "pu": false,
 
     },
