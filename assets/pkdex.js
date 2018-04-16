@@ -17,7 +17,7 @@ var abomasnow_mega = {
         "ou": true,
         "uu": true,
         "ru": true  ,
-        "nu": false,
+        "nu": true,
         "pu": false,
 
     },
@@ -194,8 +194,8 @@ var ambipom = {
     "metagame": {
         "ou": true,
         "uu": true,
-        "ru": false,
-        "nu": false,
+        "ru": true,
+        "nu": true,
         "pu": false,
 
     },
@@ -204,7 +204,7 @@ var ambipom = {
 var amoonguss = {
     "metagame": {
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
@@ -722,11 +722,7 @@ var  bronzong  ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk bronzong'></i>"
 }; pokemon.push(bronzong);
@@ -735,13 +731,9 @@ var  bruxish   ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
+        "nu": true,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk bruxish'></i>"
 }; pokemon.push(bruxish);
@@ -798,7 +790,7 @@ var   camerupt_mega  ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
+        "nu": true,
         "pu": false,
 
     },
@@ -1099,13 +1091,9 @@ var   comfey  ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
+        "nu": true,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk comfey'></i>"
 }; pokemon.push(comfey);
@@ -1426,14 +1414,9 @@ var   diancie  ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
+        "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk diancie'></i>"
 }; pokemon.push(diancie);
@@ -1789,7 +1772,7 @@ var   entei  ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
+        "ru": true,
         "nu": false,
         "pu": false,
 
@@ -1981,7 +1964,7 @@ var   forretress  ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
+        "ru": true,
         "nu": false,
         "pu": false,
 
@@ -2190,7 +2173,7 @@ var   gigalith  ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
+        "nu": true,
         "pu": false,
   
     },
@@ -2767,12 +2750,7 @@ var   hoopa  ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk hoopa'></i>"
 }; pokemon.push(hoopa);
@@ -2803,8 +2781,8 @@ var  houndoom_mega   ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": false,
-        "ru": false,
+        "uu": true,
+        "ru": true,
         "nu": false,
         "pu": false,
 
@@ -2929,12 +2907,7 @@ var   jolteon  ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk jolteon'></i>"
 }; pokemon.push(jolteon);
@@ -4000,7 +3973,7 @@ var mienshao ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
+        "ru": true,
         "nu": false,
         "pu": false,
 
@@ -4038,7 +4011,7 @@ var miltank ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
+        "pu": false,
 
     },
     "icon": "<i class='pk miltank'></i>"
@@ -4420,7 +4393,7 @@ var palossand ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
+        "pu": false,
     },
     "icon": "<i class='pk palossand'></i>"
 }; pokemon.push(palossand);
