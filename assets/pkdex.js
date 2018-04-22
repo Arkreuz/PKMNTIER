@@ -1772,7 +1772,7 @@ var   entei  ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
 
@@ -2782,7 +2782,7 @@ var  houndoom_mega   ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
 
@@ -3973,7 +3973,7 @@ var mienshao ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
 
@@ -6324,7 +6324,7 @@ var typhlosion ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
+        "pu": false,
 
     },
     "icon": "<i class='pk typhlosion'></i>"
