@@ -2112,10 +2112,10 @@ var  gastrodon   ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
-        "ru": true,
-        "nu": true,
-        "pu": true,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
 
     },
     "icon": "<i class='pk gastrodon'></i>"
