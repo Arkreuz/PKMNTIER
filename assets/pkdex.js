@@ -6903,7 +6903,7 @@ var zygarde_10 ={
 var zygarde_50 ={
     "metagame": {
         "uber": true,
-        "ou": true,
+        "ou": false,
         "uu": false,
         "ru": false,
         "nu": false,
