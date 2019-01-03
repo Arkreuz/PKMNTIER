@@ -5598,12 +5598,7 @@ var slowbro ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk slowbro'></i>"
 }; pokemon.push(slowbro);
@@ -5611,16 +5606,11 @@ var slowbro_mega ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": false,
+        "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk slowbro-mega'></i>"
 }; pokemon.push(slowbro_mega);
