@@ -418,11 +418,7 @@ var  azelf ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk azelf'></i>"
 }; pokemon.push(azelf);
@@ -433,11 +429,7 @@ var azumarill ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+   
     },
     "icon": "<i class='pk azumarill'></i>"
 }; pokemon.push(azumarill);
@@ -3610,12 +3602,7 @@ var magneton  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+ 
     },
     "icon": "<i class='pk magneton'></i>"
 }; pokemon.push(magneton);
@@ -5034,12 +5021,7 @@ var rotom_fan ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk rotom-fan'></i>"
 }; pokemon.push(rotom_fan);
@@ -5059,15 +5041,10 @@ var rotom_heat ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
-        "nu": true,
-        "pu": true,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": true,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+
     },
     "icon": "<i class='pk rotom-heat'></i>"
 }; pokemon.push(rotom_heat);
