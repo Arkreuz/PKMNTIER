@@ -54,11 +54,7 @@ var accelgor = {
         "ru": true,
         "nu": true,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk accelgor'></i>"
 }; pokemon.push(accelgor);
@@ -265,14 +261,10 @@ var   arcanine ={
     "metagame": {
         "ou": true,
         "uu": true,
-        "ru": false,
+        "ru": true,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk arcanine'></i>"
 }; pokemon.push(arcanine);
