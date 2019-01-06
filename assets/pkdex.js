@@ -5117,12 +5117,7 @@ var salamence_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": false,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk salamence-mega'></i>"
 }; pokemon.push(salamence_mega);
@@ -5146,12 +5141,7 @@ var salazzle ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk salazzle'></i>"
 }; pokemon.push(salazzle);
@@ -5219,12 +5209,7 @@ var sceptile ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk sceptile'></i>"
 }; pokemon.push(sceptile);
@@ -5236,12 +5221,7 @@ var sceptile_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk sceptile-mega'></i>"
 }; pokemon.push(sceptile_mega);
@@ -5253,12 +5233,7 @@ var scizor ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk scizor'></i>"
 }; pokemon.push(scizor);
@@ -5270,12 +5245,6 @@ var scizor_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk scizor-mega'></i>"
 }; pokemon.push(scizor_mega);
@@ -5382,19 +5351,19 @@ var sharpedo_mega ={
     "icon": "<i class='pk sharpedo-mega'></i>"
 }; pokemon.push(sharpedo_mega);
 var shaymin ={
-    "metagame": {
+    "metagame": {        "alpha": true,
+        "beta": true,
+        "gamma": false,
+        "delta": false,
+        "epsilon": false,
+        "zeta": false,
         "uber": true,
         "ou": true,
         "uu": true,
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk shaymin'></i>"
 }; pokemon.push(shaymin);
@@ -5406,12 +5375,7 @@ var shaymin_sky ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": false,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk shaymin-sky'></i>"
 }; pokemon.push(shaymin_sky);
@@ -5467,12 +5431,7 @@ var sigilyph ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk sigilyph'></i>"
 }; pokemon.push(sigilyph);
@@ -5528,12 +5487,7 @@ var skarmory ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk skarmory'></i>"
 }; pokemon.push(skarmory);
@@ -5591,13 +5545,7 @@ var slowking ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
-    },
+},
     "icon": "<i class='pk slowking'></i>"
 }; pokemon.push(slowking);
 var slurpuff ={
@@ -6852,7 +6800,7 @@ var zygarde_10 ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
+        "ru": true,
         "nu": false,
         "pu": false,
 
