@@ -5693,12 +5693,7 @@ var starmie ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+   
     },
     "icon": "<i class='pk starmie'></i>"
 }; pokemon.push(starmie);
@@ -5709,13 +5704,7 @@ var steelix ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "pu": false,  
     },
     "icon": "<i class='pk steelix'></i>"
 }; pokemon.push(steelix);
@@ -5724,15 +5713,10 @@ var steelix_mega ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+  
     },
     "icon": "<i class='pk steelix-mega'></i>"
 }; pokemon.push(steelix_mega);
