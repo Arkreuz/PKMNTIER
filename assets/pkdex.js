@@ -951,14 +951,10 @@ var   chesnaught  ={
     "metagame": {
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+ 
     },
     "icon": "<i class='pk chesnaught'></i>"
 }; pokemon.push(chesnaught);
