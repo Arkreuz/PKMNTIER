@@ -1210,11 +1210,7 @@ var   darmanitan  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk darmanitan'></i>"
 }; pokemon.push(darmanitan);
@@ -2236,7 +2232,7 @@ var   gligar   ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
 
