@@ -1467,12 +1467,7 @@ var   donphan   ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk donphan'></i>"
 }; pokemon.push(donphan);
@@ -1481,15 +1476,10 @@ var   doublade  ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk doublade'></i>"
 }; pokemon.push(doublade);
