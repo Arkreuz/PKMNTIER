@@ -1404,12 +1404,7 @@ var   diancie_mega  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk diancie-mega'></i>"
 }; pokemon.push(diancie_mega);
@@ -1491,12 +1486,7 @@ var   dragalge ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk dragalge'></i>"
 }; pokemon.push(dragalge);
@@ -2074,14 +2064,14 @@ var    gardevoir_mega ={
     },
     "icon": "<i class='pk gardevoir-mega'></i>"
 }; pokemon.push(gardevoir_mega);
-var  gastrodon   ={
+var  igastrodon   ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": false,
-        "ru": false,
-        "nu": false,
-        "pu": false,
+        "uu": true,
+        "ru": true,
+        "nu": true,
+        "pu": true,
 
     },
     "icon": "<i class='pk gastrodon'></i>"
