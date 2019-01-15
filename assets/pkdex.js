@@ -6277,7 +6277,7 @@ var uxie  ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": true,
+        "nu": false,
         "pu": false,
 
     },
