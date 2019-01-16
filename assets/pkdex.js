@@ -3986,7 +3986,7 @@ var minior ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
+        "pu": true,
 
     },
     "icon": "<i class='pk minior'></i>"
