@@ -3837,7 +3837,7 @@ var metagross ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": false,
+        "ru": true,
         "nu": false,
         "pu": false,
 
@@ -3853,11 +3853,7 @@ var metagross_mega ={
         "nu": false,
         "pu": false,
         "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk metagross-mega'></i>"
 }; pokemon.push(metagross_mega);
