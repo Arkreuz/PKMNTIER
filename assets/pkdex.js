@@ -2201,7 +2201,7 @@ var   glalie_mega   ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
+        "nu": true,
         "pu": false,
 
     },
