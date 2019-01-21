@@ -3553,7 +3553,7 @@ var magmortar  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": true,
+        "pu": false,
 
     },
     "icon": "<i class='pk magmortar'></i>"
