@@ -1247,7 +1247,7 @@ var   delcatty ={
     },
     "icon": "<i class='pk delcatty'></i>"
 }; pokemon.push(delcatty);
-var   delibird ={
+var   ielibird ={
     "metagame": {
         "ou": true,
         "uu": true,
@@ -1265,11 +1265,7 @@ var   delphox ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk delphox'></i>"
 }; pokemon.push(delphox);
