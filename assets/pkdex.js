@@ -5831,12 +5831,7 @@ var sylveon ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+ 
     },
     "icon": "<i class='pk sylveon'></i>"
 }; pokemon.push(sylveon);
@@ -6290,7 +6285,7 @@ var vaporeon ={
         "ru": true,
         "nu": true,
         "pu": false,
-
+moodle
     },
     "icon": "<i class='pk vaporeon'></i>"
 }; pokemon.push(vaporeon);
@@ -6365,7 +6360,7 @@ var victreebel ={
 
     },
     "icon": "<i class='pk victreebel'></i>"
-}; pokemon.push(victreebel);
+}; pokemon.push(victreebel);moodle
 var vigoroth ={
     "metagame": {
         "uber": true,
@@ -6491,7 +6486,7 @@ var watchog ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": true,moodle
         "nu": true,
         "pu": true,
 
@@ -6518,7 +6513,7 @@ var weezing ={
         "ru": true,
         "nu": true,
         "pu": false,
-
+moodle
     },
     "icon": "<i class='pk weezing'></i>"
 }; pokemon.push(weezing);
@@ -6650,7 +6645,7 @@ var xurkitree ={
         "ru": false,
         "nu": false,
         "pu": false,
-
+moodle
     },
     "icon": "<i class='pk xurkitree'></i>"
 }; pokemon.push(xurkitree);
@@ -6683,7 +6678,7 @@ var zangoose ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": true,moodle
         "nu": true,
         "pu": true,
 
@@ -6704,7 +6699,7 @@ var zapdos ={
 }; pokemon.push(zapdos);
 var zebstrika ={
     "metagame": {
-        "uber": true,
+        "uber": true,moodle
         "ou": true,
         "uu": true,
         "ru": true,
@@ -6773,4 +6768,4 @@ var zygarde_complete ={
 
     },
     "icon": "<i class='pk zygarde-complete'></i>"
-}; pokemon.push(zygarde_complete);
+}; pokemon.push(zygarde_complete);moodle
