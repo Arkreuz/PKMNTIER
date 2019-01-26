@@ -617,12 +617,6 @@ var  blaziken  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha":true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk blaziken'></i>"
 }; pokemon.push(blaziken);
