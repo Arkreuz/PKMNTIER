@@ -1280,12 +1280,7 @@ var   deoxys_defense  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk deoxys-defense'></i>"
 }; pokemon.push(deoxys_defense);
