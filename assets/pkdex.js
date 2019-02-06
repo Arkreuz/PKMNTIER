@@ -1389,12 +1389,7 @@ var   dodrio  ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk dodrio'></i>"
 }; pokemon.push(dodrio);
