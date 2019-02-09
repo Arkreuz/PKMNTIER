@@ -1993,7 +1993,7 @@ var    gardevoir_mega ={
     },
     "icon": "<i class='pk gardevoir-mega'></i>"
 }; pokemon.push(gardevoir_mega);
-var  igastrodon   ={
+var  gastrodon   ={
     "metagame": {
         "uber": true,
         "ou": true,
@@ -2026,7 +2026,7 @@ var    gengar ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": true,alpha
         "ru": false,
         "nu": false,
         "pu": false,
