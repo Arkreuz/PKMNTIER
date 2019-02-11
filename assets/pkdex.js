@@ -2013,12 +2013,7 @@ var  genesect   ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk genesect'></i>"
 }; pokemon.push(genesect);
