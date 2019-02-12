@@ -2021,7 +2021,7 @@ var    gengar ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,alpha
+        "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
