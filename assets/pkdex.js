@@ -2406,12 +2406,6 @@ var   gyarados_mega  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk gyarados-mega'></i>"
 }; pokemon.push(gyarados_mega);
