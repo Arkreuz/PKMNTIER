@@ -2679,12 +2679,7 @@ var   incineroar  ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+  
     },
     "icon": "<i class='pk incineroar'></i>"
 }; pokemon.push(incineroar);
