@@ -2691,12 +2691,6 @@ var  infernape   ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk infernape'></i>"
 }; pokemon.push(infernape);
