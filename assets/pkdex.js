@@ -2821,12 +2821,6 @@ var  keldeo   ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk keldeo'></i>"
 }; pokemon.push(keldeo);
