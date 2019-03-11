@@ -3200,12 +3200,7 @@ var lucario_mega  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk lucario-mega'></i>"
 }; pokemon.push(lucario_mega);
