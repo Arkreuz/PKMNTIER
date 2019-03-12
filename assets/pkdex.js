@@ -3652,7 +3652,6 @@ var metagross_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
 
     },
     "icon": "<i class='pk metagross-mega'></i>"
