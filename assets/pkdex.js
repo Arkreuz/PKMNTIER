@@ -4022,12 +4022,7 @@ var omastar ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+     
     },
     "icon": "<i class='pk omastar'></i>"
 }; pokemon.push(omastar);
