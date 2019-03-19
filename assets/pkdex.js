@@ -4125,12 +4125,7 @@ var pangoro ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+
     },
     "icon": "<i class='pk pangoro'></i>"
 }; pokemon.push(pangoro);
