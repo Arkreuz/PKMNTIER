@@ -4193,13 +4193,7 @@ var pheromosa ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
-    },
+
     "icon": "<i class='pk pheromosa'></i>"
 }; pokemon.push(pheromosa);
 var phione ={
