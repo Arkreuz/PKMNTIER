@@ -4273,13 +4273,7 @@ var pinsir_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
-    },
+
     "icon": "<i class='pk pinsir-mega'></i>"
 }; pokemon.push(pinsir_mega);
 var plusle ={
