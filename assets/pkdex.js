@@ -4317,12 +4317,7 @@ var porygon2 ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk porygon2'></i>"
 }; pokemon.push(porygon2);
