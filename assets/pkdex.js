@@ -4519,12 +4519,7 @@ var rayquaza_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": false,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk rayquaza-mega'></i>"
 }; pokemon.push(rayquaza_mega);
