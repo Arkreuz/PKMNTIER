@@ -4564,12 +4564,7 @@ var registeel ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk registeel'></i>"
 }; pokemon.push(registeel);
