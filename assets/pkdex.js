@@ -4587,12 +4587,7 @@ var reshiram  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": false,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+      
     },
     "icon": "<i class='pk reshiram'></i>"
 }; pokemon.push(reshiram);
