@@ -4623,12 +4623,6 @@ var rhyperior ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk rhyperior'></i>"
 }; pokemon.push(rhyperior);
