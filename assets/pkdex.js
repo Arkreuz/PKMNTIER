@@ -4749,12 +4749,7 @@ var sableye_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+
     },
     "icon": "<i class='pk sableye-mega'></i>"
 }; pokemon.push(sableye_mega);
