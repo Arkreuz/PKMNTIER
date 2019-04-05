@@ -5006,12 +5006,7 @@ var sharpedo_mega ={
     "icon": "<i class='pk sharpedo-mega'></i>"
 }; pokemon.push(sharpedo_mega);
 var shaymin ={
-    "metagame": {        "alpha": true,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+    "metagame": {      
         "uber": true,
         "ou": true,
         "uu": true,
