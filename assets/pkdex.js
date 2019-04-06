@@ -5230,12 +5230,6 @@ var sneasel ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
     },
     "icon": "<i class='pk sneasel'></i>"
 }; pokemon.push(sneasel);
