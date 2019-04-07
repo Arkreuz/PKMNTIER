@@ -5241,12 +5241,6 @@ var snorlax ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "alpha": true,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
     },
     "icon": "<i class='pk snorlax'></i>"
 }; pokemon.push(snorlax);
