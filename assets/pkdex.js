@@ -2887,7 +2887,7 @@ var   kommo_o  ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": true,
+        "uu": false,
         "ru": false,
         "nu": false,
         "pu": false,
