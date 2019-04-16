@@ -4123,7 +4123,7 @@ var pangoro ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
+        "nu": true,
         "pu": false,
 
     },
