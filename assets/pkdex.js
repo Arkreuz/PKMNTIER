@@ -2382,7 +2382,7 @@ var   guzzlord  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
+        "pu": true,
     },
     "icon": "<i class='pk guzzlord'></i>"
 }; pokemon.push(guzzlord);
