@@ -3755,7 +3755,7 @@ var mimikyu ={
     "metagame": {
         "uber": true,
         "ou": true,
-        "uu": false,
+        "uu": true,
         "ru": false,
         "nu": false,
         "pu": false,
