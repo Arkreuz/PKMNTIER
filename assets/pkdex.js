@@ -18,7 +18,7 @@ var abomasnow_mega = {
         "uu": true,
         "ru": true  ,
         "nu": true,
-        "pu": false,
+        "pu": true,
 
     },
     "icon": "<i class='pk abomasnow-mega'></i>"
