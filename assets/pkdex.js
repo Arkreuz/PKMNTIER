@@ -1770,7 +1770,7 @@ var   feraligatr  ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,
+        "ru": false,
         "nu": false,
         "pu": false,
 
