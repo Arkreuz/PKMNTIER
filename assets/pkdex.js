@@ -697,6 +697,18 @@ var  bronzong  ={
     },
     "icon": "<i class='pk bronzong'></i>"
 }; pokemon.push(bronzong);
+var  bronzor  ={
+    "metagame": {
+        "ou": true,
+        "uu": true,
+        "ru": true,
+        "nu": true,
+        "pu": true,
+        "zu"; true,
+
+    },
+    "icon": "<i class='pk bronzor'></i>"
+}; pokemon.push(bronzor);
 var  bruxish   ={
     "metagame": {
         "ou": true,
