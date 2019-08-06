@@ -1066,6 +1066,18 @@ var   cofagrigus  ={
     },
     "icon": "<i class='pk cofagrigus'></i>"
 }; pokemon.push(cofagrigus);
+var   combusken  ={
+    "metagame": {
+        "ou": true,
+        "uu": true,
+        "ru": true,
+        "nu": true,
+        "pu": true,
+        "zu": true,
+
+    },
+    "icon": "<i class='pk combusken'></i>"
+}; pokemon.push(combusken);
 var   comfey  ={
     "metagame": {
         "ou": true,
