@@ -1633,6 +1633,7 @@ var   electivire  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
 
     },
     "icon": "<i class='pk electivire'></i>"
