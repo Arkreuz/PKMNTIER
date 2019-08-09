@@ -2307,9 +2307,12 @@ var   gourgeist  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true
 
     },
     "icon": "<i class='pk gourgeist'></i>"
+}; pokemon.push(gourgeist);
+
 }; pokemon.push(gourgeist);
 var  granbull   ={
     "metagame": {
