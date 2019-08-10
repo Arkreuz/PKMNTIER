@@ -1,4 +1,4 @@
-var pokemon = [];
+va pokemon = [];
 
 var abomasnow = {
     "name": "abomasnow",
@@ -2842,6 +2842,7 @@ var   kecleon  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true
 
     },
     "icon": "<i class='pk kecleon'></i>"
