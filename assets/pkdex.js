@@ -2912,7 +2912,8 @@ var   komala  ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
+        "pu": true,
+        "zu": true,
  
     },
     "icon": "<i class='pk komala'></i>"
