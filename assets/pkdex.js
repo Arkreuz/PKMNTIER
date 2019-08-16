@@ -3357,6 +3357,17 @@ var machamp  ={
         "pu": false,
 
     },
+        var machoke  ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": true,
+        "nu": true,
+        "pu": true,
+        "zu": true,
+
+    },
     "icon": "<i class='pk machamp'></i>"
 }; pokemon.push(machamp);
 var magcargo  ={
