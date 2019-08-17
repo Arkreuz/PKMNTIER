@@ -3668,6 +3668,19 @@ var meowstic_male ={
     },
     "icon": "<i class='pk meowstic-male'></i>"
 }; pokemon.push(meowstic_male);
+var meranie ={
+    "metagame": {
+        "uber": true,
+        "ou": true,
+        "uu": true,
+        "ru": true,
+        "nu": true,
+        "pu": true,
+        "zu": true,
+
+    },
+    "icon": "<i class='pk mesprit'></i>"
+}; pokemon.push(mesprit);
 var mesprit ={
     "metagame": {
         "uber": true,
