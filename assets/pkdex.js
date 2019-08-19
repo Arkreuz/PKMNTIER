@@ -4425,6 +4425,7 @@ var probopass ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk probopass'></i>"
 }; pokemon.push(probopass);
