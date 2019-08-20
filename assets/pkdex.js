@@ -4468,8 +4468,9 @@ var quagsire ={
         "ou": true,
         "uu": true,
         "ru": true,
-        "nu": false,
-        "pu": false,
+        "nu": true,
+        "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk quagsire'></i>"
 }; pokemon.push(quagsire);
