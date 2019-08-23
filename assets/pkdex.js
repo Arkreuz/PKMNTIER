@@ -4918,6 +4918,7 @@ var sawsbuck ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
 
     },
     "icon": "<i class='pk sawsbuck'></i>"
