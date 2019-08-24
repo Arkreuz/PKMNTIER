@@ -5115,6 +5115,7 @@ var shiftry ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk shiftry'></i>"
 }; pokemon.push(shiftry);
