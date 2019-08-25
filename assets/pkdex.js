@@ -5138,6 +5138,7 @@ var shuckle ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk shuckle'></i>"
 }; pokemon.push(shuckle);
