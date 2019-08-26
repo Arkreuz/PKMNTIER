@@ -5173,6 +5173,7 @@ var simipour ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk simipour'></i>"
 }; pokemon.push(simipour);
