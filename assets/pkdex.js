@@ -8,7 +8,7 @@ var abomasnow = {
         "ru": true,
         "nu": true,
         "pu": true,
-        "zu": false,
+        "zu": true
 
     },
     "icon": "<i class='pk abomasnow img-responsive'></i>"
@@ -20,6 +20,7 @@ var abomasnow_mega = {
         "ru": true  ,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk abomasnow-mega'></i>"
