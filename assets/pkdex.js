@@ -71,6 +71,7 @@ var aegislash = {
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": true,
 
     },
     "icon": "<i class='pk aegislash'></i>"
