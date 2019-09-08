@@ -85,6 +85,7 @@ var aerodactyl = {
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": true,
 
     },
     "icon": "<i class='pk aerodactyl'></i>"
