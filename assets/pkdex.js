@@ -95,9 +95,10 @@ var aerodactyl_mega = {
     "metagame": {
         "ou": true,
         "uu": true,
-        "ru":false,
+        "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk aerodactyl-mega'></i>"
