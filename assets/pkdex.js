@@ -150,9 +150,10 @@ var alakazam_mega = {
     "metagame": {
         "ou": true,
         "uu": false,
-        "ru":false,
+        "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false
 
     },
     "icon": "<i class='pk alakazam-mega'></i>"
