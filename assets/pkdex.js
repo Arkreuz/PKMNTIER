@@ -146,6 +146,7 @@ var alakazam = {
 }; pokemon.push(alakazam);
 
 
+
 var alakazam_mega = {
     "metagame": {
         "ou": true,
@@ -166,6 +167,7 @@ var alomomola = {
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk alomomola'></i>"
