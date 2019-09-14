@@ -195,6 +195,7 @@ var altaria_mega = {
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk altaria-mega'></i>"
