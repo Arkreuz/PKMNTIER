@@ -301,6 +301,7 @@ var  arceus= {
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
    ,
     },
     "icon": "<i class='pk arceus'></i>"
