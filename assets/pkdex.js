@@ -109,7 +109,7 @@ var aggron = {
     "metagame": {
         "ou": true,
         "uu": true,
-        "ru":true,
+        "ru": true,
         "nu": true,
         "pu": true,
         "zu": true,
@@ -123,7 +123,7 @@ var aggron_mega = {
     "metagame": {
         "ou": true,
         "uu": true,
-        "ru":false,
+        "ru": false,
         "nu": false,
         "pu": false,
         "zu": false,
@@ -314,6 +314,7 @@ var  archeops= {
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk archeops'></i>"
