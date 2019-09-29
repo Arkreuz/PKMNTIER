@@ -353,11 +353,7 @@ var   aromatisse = {
         "ru": true,
         "nu": true,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "zu": false,
     },
     "icon": "<i class='pk aromatisse'></i>"
 }; pokemon.push(aromatisse);
