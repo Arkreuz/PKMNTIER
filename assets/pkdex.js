@@ -4892,6 +4892,7 @@ var samurott ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk samurott'></i>"
 }; pokemon.push(samurott);
