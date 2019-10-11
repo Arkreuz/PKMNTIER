@@ -1722,6 +1722,7 @@ var   escavalier  ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk escavalier'></i>"
