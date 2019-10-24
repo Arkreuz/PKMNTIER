@@ -3001,6 +3001,7 @@ var  kyogre_primal   ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk kyogre'></i>"
 }; pokemon.push(kyogre_primal);
