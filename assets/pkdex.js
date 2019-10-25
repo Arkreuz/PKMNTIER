@@ -1955,7 +1955,7 @@ var  gallade   ={
         "ru": true,
         "nu": true,
         "pu": false,
-
+        "zu": false,
     },
     "icon": "<i class='pk gallade'></i>"
 }; pokemon.push(gallade);
