@@ -3796,6 +3796,7 @@ var mewtwo_mega_y ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk mewtwo-mega-y'></i>"
