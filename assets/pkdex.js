@@ -418,6 +418,7 @@ var  avalugg = {
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk avalugg'></i>"
