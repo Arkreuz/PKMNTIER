@@ -4388,6 +4388,7 @@ var plusle ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk plusle'></i>"
 }; pokemon.push(plusle);
