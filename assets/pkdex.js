@@ -3656,6 +3656,7 @@ var medicham_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk medicham-mega'></i>"
