@@ -25,7 +25,6 @@ var abomasnow_mega = {
     },
     "icon": "<i class='pk abomasnow-mega'></i>"
 }; pokemon.push(abomasnow_mega);
-i
 
 var absol = {
     "metagame": {
@@ -433,6 +432,7 @@ var  azelf ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk azelf'></i>"
