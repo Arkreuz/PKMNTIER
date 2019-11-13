@@ -903,11 +903,7 @@ var   chansey  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "zu": false,
     },
     "icon": "<i class='pk chansey'></i>"
 }; pokemon.push(chansey);
