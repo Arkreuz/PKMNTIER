@@ -510,6 +510,7 @@ var   beartic={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
 
     },
     "icon": "<i class='pk beartic'></i>"
