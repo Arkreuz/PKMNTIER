@@ -760,11 +760,7 @@ var  buzzwole   ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": false,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "zu": false,
     },
     "icon": "<i class='pk buzzwole'></i>"
 }; pokemon.push(buzzwole);
