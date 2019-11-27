@@ -3046,6 +3046,7 @@ var  landorus   ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
  
     },
     "icon": "<i class='pk landorus'></i>"
