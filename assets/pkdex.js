@@ -468,6 +468,7 @@ var  banette_mega ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk banette-mega'></i>"
