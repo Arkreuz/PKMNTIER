@@ -588,11 +588,7 @@ var   bewear={
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": false,
-        "zeta": false,
+        "zu": false,
     },
     "icon": "<i class='pk bewear'></i>"
 }; pokemon.push(bewear);
