@@ -1495,6 +1495,7 @@ var   drapion  ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk drapion'></i>"
