@@ -1766,6 +1766,7 @@ var  exeggutor_a   ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk exeggutor-a'></i>"
