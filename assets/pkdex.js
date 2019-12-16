@@ -2046,6 +2046,7 @@ var  gastrodon   ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk gastrodon'></i>"
