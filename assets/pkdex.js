@@ -877,11 +877,7 @@ var   chandelure ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "zu": false,
     },
     "icon": "<i class='pk chandelure'></i>"
 }; pokemon.push(chandelure);
