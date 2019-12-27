@@ -504,6 +504,7 @@ var   bastiodon={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk bastiodon'></i>"
