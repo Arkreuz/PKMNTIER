@@ -2353,6 +2353,7 @@ var   graveler_a  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
 
     },
     "icon": "<i class='pk graveler-a'></i>"
