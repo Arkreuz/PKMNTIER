@@ -2451,6 +2451,7 @@ var   gyarados  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
    
     },
     "icon": "<i class='pk gyarados'></i>"
