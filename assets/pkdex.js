@@ -1877,7 +1877,7 @@ var   florges  ={
         "ru": true,
         "nu": false,
         "pu": false,
-
+        "zu": false,
     },
     "icon": "<i class='pk florges'></i>"
 }; pokemon.push(florges);
