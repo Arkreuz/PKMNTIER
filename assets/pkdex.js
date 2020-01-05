@@ -3611,7 +3611,7 @@ var masquerain ={
         "ru": true,
         "nu": true,
         "pu": true,
-
+        "zu": true,
     },
     "icon": "<i class='pk masquerain'></i>"
 }; pokemon.push(masquerain);
