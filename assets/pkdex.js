@@ -1133,6 +1133,7 @@ var   cradily  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk cradily'></i>"
 }; pokemon.push(cradily);
