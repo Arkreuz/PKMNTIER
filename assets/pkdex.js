@@ -2253,6 +2253,7 @@ var  golem_a   ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
 
     },
     "icon": "<i class='pk golem-a'></i>"
