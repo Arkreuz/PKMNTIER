@@ -853,11 +853,8 @@ var   celebi  ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "zu": false,
+
     },
     "icon": "<i class='pk celebi'></i>"
 }; pokemon.push(celebi);
