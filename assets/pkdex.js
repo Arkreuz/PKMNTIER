@@ -552,11 +552,7 @@ var  beedrill_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "zu": false,
     },
     "icon": "<i class='pk beedrill-mega'></i>"
 }; pokemon.push(beedrill_mega);
