@@ -910,6 +910,7 @@ var   charizard_mega_x  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk charizard-mega-x'></i>"
 }; pokemon.push(charizard_mega_x);
