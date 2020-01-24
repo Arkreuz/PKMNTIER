@@ -767,6 +767,7 @@ var   cacturne  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
 
     },
     "icon": "<i class='pk cacturne'></i>"
