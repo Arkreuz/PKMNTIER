@@ -622,6 +622,7 @@ var  blastoise  ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk blastoise'></i>"
 }; pokemon.push(blastoise);
