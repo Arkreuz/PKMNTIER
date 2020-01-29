@@ -1652,6 +1652,7 @@ var   electrode  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
 
     },
     "icon": "<i class='pk electrode'></i>"
