@@ -750,6 +750,7 @@ var  butterfree   ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk butterfree'></i>"
