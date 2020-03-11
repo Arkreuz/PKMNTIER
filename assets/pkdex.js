@@ -56,7 +56,7 @@ var accelgor = {
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
+        "pu": true,
         "zu": false,
 
     },
@@ -4010,6 +4010,7 @@ var muk_a ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk muk-a'></i>"
