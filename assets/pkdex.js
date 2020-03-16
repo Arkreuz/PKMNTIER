@@ -2592,6 +2592,7 @@ var   hippowdon  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk hippowdon'></i>"
