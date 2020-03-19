@@ -3369,6 +3369,7 @@ var  lunatone ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
 
     },
     "icon": "<i class='pk lunatone'></i>"
