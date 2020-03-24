@@ -2986,6 +2986,7 @@ var   kommo_o  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk kommo-o'></i>"
