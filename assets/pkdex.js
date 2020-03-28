@@ -1268,7 +1268,7 @@ var   delcatty ={
     },
     "icon": "<i class='pk delcatty'></i>"
 }; pokemon.push(delcatty);
-var   ielibird ={
+var   Delibird ={
     "metagame": {
         "ou": true,
         "uu": true,
@@ -4846,6 +4846,7 @@ var rotom_fan ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk rotom-fan'></i>"
