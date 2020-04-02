@@ -3430,6 +3430,7 @@ var lycanroc_midday  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk lycanroc-midday'></i>"
 }; pokemon.push(lycanroc_midday);
