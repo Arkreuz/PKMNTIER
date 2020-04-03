@@ -2573,6 +2573,7 @@ var   heracross  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk heracross'></i>"
 }; pokemon.push(heracross);
