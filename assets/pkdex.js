@@ -5439,6 +5439,7 @@ var solgaleo ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk solgaleo'></i>"
 }; pokemon.push(solgaleo);
