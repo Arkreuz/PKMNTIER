@@ -5245,6 +5245,7 @@ var shiinotic  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk shiinotic'></i>"
 }; pokemon.push(shiinotic);
