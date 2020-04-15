@@ -5107,6 +5107,7 @@ var scrafty ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu" false,
 
     },
     "icon": "<i class='pk scrafty'></i>"
