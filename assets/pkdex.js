@@ -5119,6 +5119,7 @@ var scyther ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk scyther'></i>"
 }; pokemon.push(scyther);
