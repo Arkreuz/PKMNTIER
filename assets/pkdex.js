@@ -2456,6 +2456,7 @@ var  gumshoos   ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk gumshoos'></i>"
 }; pokemon.push(gumshoos);
