@@ -2614,6 +2614,7 @@ var  hitmonchan   ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk hitmonchan'></i>"
