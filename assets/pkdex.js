@@ -2321,6 +2321,7 @@ var   goodra  ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk goodra></i>"
