@@ -6150,6 +6150,7 @@ var vaporeon ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
 moodle
     },
     "icon": "<i class='pk vaporeon'></i>"
