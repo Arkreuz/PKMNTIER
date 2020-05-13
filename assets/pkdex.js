@@ -2498,6 +2498,7 @@ var   gyarados_mega  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk gyarados-mega'></i>"
 }; pokemon.push(gyarados_mega);
