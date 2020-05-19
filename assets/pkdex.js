@@ -2796,6 +2796,7 @@ var  infernape   ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk infernape'></i>"
 }; pokemon.push(infernape);
