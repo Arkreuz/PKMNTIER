@@ -5166,6 +5166,7 @@ var seaking ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk seaking'></i>"
 }; pokemon.push(seaking);
