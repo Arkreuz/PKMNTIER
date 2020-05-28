@@ -2661,6 +2661,7 @@ var   honchkrow  ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk honchkrow'></i>"
