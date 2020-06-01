@@ -4594,6 +4594,7 @@ var purugly ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk purugly'></i>"
 }; pokemon.push(purugly);
