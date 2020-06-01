@@ -3474,6 +3474,7 @@ var machamp  ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
         var machoke  ={
