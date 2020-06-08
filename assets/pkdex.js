@@ -1538,6 +1538,7 @@ var   druddigon  ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu" false,
 
     },
     "icon": "<i class='pk druddigon'></i>"
