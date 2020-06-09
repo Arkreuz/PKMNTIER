@@ -4357,6 +4357,7 @@ var parasect ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk parasect'></i>"
 }; pokemon.push(parasect);
