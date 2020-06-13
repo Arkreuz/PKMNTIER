@@ -4524,6 +4524,7 @@ var politoed ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
     },
     "icon": "<i class='pk politoed'></i>"
 }; pokemon.push(politoed);
