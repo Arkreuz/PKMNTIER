@@ -2420,6 +2420,7 @@ var  greninja_ash   ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "ZU": false, 
     },
     "icon": "<i class='pk greninja-ash'></i>"
 }; pokemon.push(greninja_ash);
