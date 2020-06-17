@@ -1168,11 +1168,7 @@ var   cresselia  ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "zu": false,
     },
     "icon": "<i class='pk cresselia'></i>"
 }; pokemon.push(cresselia);
