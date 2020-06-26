@@ -4588,6 +4588,7 @@ var primeape ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
     },
     "icon": "<i class='pk primeape'></i>"
 }; pokemon.push(primeape);
