@@ -4052,6 +4052,7 @@ var mr_mime ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk mr-mime'></i>"
