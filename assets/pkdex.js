@@ -4287,7 +4287,8 @@ var oricorio_pau ={
         "uu": true,
         "ru": true,
         "nu": true,
-       "pu": true,
+        "pu": true,
+        "zu": true, 
     },
     "icon": "<i class='pk oricorio-pau'></i>"
 }; pokemon.push(oricorio_pau);
