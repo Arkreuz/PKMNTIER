@@ -4978,6 +4978,7 @@ var rotom_wash ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk rotom-wash'></i>"
