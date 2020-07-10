@@ -5858,6 +5858,7 @@ var terrakion ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk terrakion'></i>"
