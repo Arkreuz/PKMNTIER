@@ -2548,6 +2548,7 @@ var   haxorus  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk haxorus'></i>"
