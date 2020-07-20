@@ -2880,6 +2880,7 @@ var   jynx  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
         "zu": true,
 
     },
