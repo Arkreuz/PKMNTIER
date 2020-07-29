@@ -4365,7 +4365,7 @@ var palossand ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,
+        "pu": true,
         "zu": false,
     },
     "icon": "<i class='pk palossand'></i>"
