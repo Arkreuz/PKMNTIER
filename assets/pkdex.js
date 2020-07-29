@@ -19,7 +19,7 @@ var abomasnow_mega = {
         "uu": true,
         "ru": true  ,
         "nu": true,
-        "pu": true,
+        "pu": false,
         "zu": false,
 
     },
