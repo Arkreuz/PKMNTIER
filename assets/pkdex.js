@@ -2732,6 +2732,7 @@ var  houndoom   ={
         "uu": true,
         "ru": true,
         "nu": true,
+        "pu": true,
 
     },
     "icon": "<i class='pk houndoom'></i>"
