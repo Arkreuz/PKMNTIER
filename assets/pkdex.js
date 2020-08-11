@@ -5021,6 +5021,7 @@ var sableye ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu"; true,
     },
     "icon": "<i class='pk sableye'></i>"
 }; pokemon.push(sableye);
