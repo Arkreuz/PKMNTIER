@@ -4948,6 +4948,7 @@ var rotom ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk rotom'></i>"
 }; pokemon.push(rotom);
