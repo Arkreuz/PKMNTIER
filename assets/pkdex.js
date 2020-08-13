@@ -4740,6 +4740,7 @@ var rampardos ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk rampardos'></i>"
 }; pokemon.push(rampardos);
