@@ -4774,6 +4774,7 @@ var raticate_a ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk raticate-a'></i>"
 }; pokemon.push(raticate_a);
