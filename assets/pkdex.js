@@ -4163,6 +4163,7 @@ var nidoking ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk nidoking'></i>"
