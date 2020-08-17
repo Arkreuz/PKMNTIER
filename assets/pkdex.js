@@ -4409,6 +4409,7 @@ var passimian ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk passimian'></i>"
 }; pokemon.push(passimian);
