@@ -4660,6 +4660,7 @@ var pyroar ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk pyroar'></i>"
 }; pokemon.push(pyroar);
