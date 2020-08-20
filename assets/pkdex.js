@@ -5580,6 +5580,7 @@ var spinda ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk spinda'></i>"
 }; pokemon.push(spinda);
