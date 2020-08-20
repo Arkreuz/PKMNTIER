@@ -3602,6 +3602,7 @@ var mamoswine  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,    
     "icon": "<i class='pk mamoswine'></i>"
 }; pokemon.push(mamoswine);
 var  manaphy ={
