@@ -4841,6 +4841,7 @@ var regirock ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk regirock'></i>"
 }; pokemon.push(regirock);
