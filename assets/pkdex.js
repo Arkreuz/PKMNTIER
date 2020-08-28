@@ -4699,6 +4699,7 @@ var qwilfish ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk qwilfish'></i>"
 }; pokemon.push(qwilfish);
