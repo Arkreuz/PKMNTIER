@@ -5270,6 +5270,7 @@ var serperior ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk serperior'></i>"
 }; pokemon.push(serperior);
