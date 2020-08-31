@@ -4915,6 +4915,7 @@ var rhyperior ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk rhyperior'></i>"
 }; pokemon.push(rhyperior);
