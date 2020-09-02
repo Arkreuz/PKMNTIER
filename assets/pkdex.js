@@ -6368,6 +6368,7 @@ var vileplume ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk vileplume'></i>"
@@ -6743,4 +6744,4 @@ var zygarde_complete ={
 
     },
     "icon": "<i class='pk zygarde-complete'></i>"
-}; pokemon.push(zygarde_complete);moodle
+}; pokemon.push(zygarde_complete);
