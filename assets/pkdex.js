@@ -1341,6 +1341,7 @@ var   deoxys_speed  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false.
 
     },
     "icon": "<i class='pk deoxys-speed'></i>"
