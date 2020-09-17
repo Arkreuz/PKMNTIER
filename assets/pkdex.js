@@ -5968,6 +5968,7 @@ var togedemaru ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "ZU": false,
 
     },
     "icon": "<i class='pk togedemaru'></i>"
