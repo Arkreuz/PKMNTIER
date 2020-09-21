@@ -2724,6 +2724,7 @@ var   hoopa_unbound  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk hoopa-unbound'></i>"
