@@ -5843,6 +5843,7 @@ var tangrowth ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk tangrowth'></i>"
