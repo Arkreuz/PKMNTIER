@@ -3711,6 +3711,7 @@ var marowak_a ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk marowak-a'></i>"
