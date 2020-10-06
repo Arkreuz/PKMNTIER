@@ -4449,6 +4449,7 @@ var persian ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk persian'></i>"
 }; pokemon.push(persian);
