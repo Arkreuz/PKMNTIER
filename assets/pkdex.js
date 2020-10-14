@@ -3828,6 +3828,7 @@ var meowstic_female ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk meowstic-female'></i>"
