@@ -3305,6 +3305,7 @@ var  liepard ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
     },
     "icon": "<i class='pk liepard'></i>"
 }; pokemon.push(liepard);
