@@ -5372,6 +5372,7 @@ var shedinja ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk shedinja'></i>"
 }; pokemon.push(shedinja);
