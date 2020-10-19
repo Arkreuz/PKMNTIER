@@ -4747,6 +4747,7 @@ var raichu_a  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
     },
     "icon": "<i class='pk raichu-a'></i>"
 }; pokemon.push(raichu_a);
