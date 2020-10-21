@@ -4628,6 +4628,7 @@ var porygon_z ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk porygon-z'></i>"
