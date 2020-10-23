@@ -5161,6 +5161,7 @@ var sandslash_a ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
     },
     "icon": "<i class='pk sandslash-a'></i>"
 }; pokemon.push(sandslash_a);
