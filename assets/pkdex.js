@@ -5682,7 +5682,8 @@ var steelix ={
         "uu": true,
         "ru": true,
         "nu": true,
-        "pu": false,  
+        "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk steelix'></i>"
 }; pokemon.push(steelix);
