@@ -6231,6 +6231,7 @@ var umbreon ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk umbreon'></i>"
