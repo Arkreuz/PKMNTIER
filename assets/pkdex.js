@@ -4481,7 +4481,7 @@ var pheromosa ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "pu": false,
+        "zu": false,
 
     "icon": "<i class='pk pheromosa'></i>"
 }; pokemon.push(pheromosa);
