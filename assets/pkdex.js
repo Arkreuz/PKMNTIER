@@ -4899,6 +4899,7 @@ var relicanth ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk relicanth'></i>"
 }; pokemon.push(relicanth);
