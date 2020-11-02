@@ -3935,6 +3935,7 @@ var mewtwo_mega_x ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk mewtwo-mega-x'></i>"
 }; pokemon.push(mewtwo_mega_x);
