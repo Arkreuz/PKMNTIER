@@ -5021,6 +5021,7 @@ var rotom_frost ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
     },
     "icon": "<i class='pk rotom-frost'></i>"
 }; pokemon.push(rotom_frost);
