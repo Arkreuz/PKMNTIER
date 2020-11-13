@@ -5503,6 +5503,7 @@ var skuntank  ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
     },
     "icon": "<i class='pk skuntank'></i>"
 }; pokemon.push(skuntank);
