@@ -4985,6 +4985,7 @@ var roserade  ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk roserade'></i>"
 }; pokemon.push(roserade);
