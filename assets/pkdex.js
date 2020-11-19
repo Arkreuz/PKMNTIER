@@ -5205,6 +5205,7 @@ var sceptile ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk sceptile'></i>"
