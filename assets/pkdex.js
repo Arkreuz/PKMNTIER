@@ -6693,6 +6693,7 @@ var xurkitree ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 moodle
     },
     "icon": "<i class='pk xurkitree'></i>"
