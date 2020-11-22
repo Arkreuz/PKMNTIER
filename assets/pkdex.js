@@ -3434,7 +3434,7 @@ var  lunala ={
         "ru": false,
         "nu": false,
         "pu": false,
-        "ZU": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk lunala'></i>"
