@@ -2078,6 +2078,7 @@ var    gardevoir_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk gardevoir-mega'></i>"
