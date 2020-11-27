@@ -6626,6 +6626,7 @@ var wobbuffet ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk wobbuffet'></i>"
