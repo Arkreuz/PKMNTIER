@@ -5597,6 +5597,7 @@ var sneasel ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk sneasel'></i>"
 }; pokemon.push(sneasel);
