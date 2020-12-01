@@ -5185,6 +5185,7 @@ var sawk ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk sawk'></i>"
 }; pokemon.push(sawk);
