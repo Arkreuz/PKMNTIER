@@ -5111,6 +5111,7 @@ var salamence_mega ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk salamence-mega'></i>"
