@@ -5051,6 +5051,7 @@ var rotom_mow ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk rotom-mow'></i>"
