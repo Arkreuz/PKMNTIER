@@ -4978,6 +4978,7 @@ var ribombee = {
             "ru": true,
             "nu": true,
             "pu": true,
+            "zu": true,
         },
     "icon": "<i class='pk roselia'></i>"
 }; pokemon.push(roselia);
