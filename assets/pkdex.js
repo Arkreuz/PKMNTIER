@@ -5937,6 +5937,7 @@ var tapu_koko ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk tapu-koko'></i>"
