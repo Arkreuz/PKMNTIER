@@ -5533,6 +5533,7 @@ var slaking ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
     },
     "icon": "<i class='pk slaking'></i>"
 }; pokemon.push(slaking);
