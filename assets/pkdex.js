@@ -5915,6 +5915,7 @@ var tapu_bulu ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk tapu-bulu'></i>"
