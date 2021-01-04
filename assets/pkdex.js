@@ -2324,6 +2324,7 @@ var   golisopod  ={
         "ru": true,
         "nu": false,
         "pu": false,
+        "zu": false,
 
     "icon": "<i class='pk golisopod></i>"
 }; pokemon.push(golisopod);
