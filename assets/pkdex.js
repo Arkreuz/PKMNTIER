@@ -6600,6 +6600,7 @@ var weezing ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
 moodle
     },
     "icon": "<i class='pk weezing'></i>"
