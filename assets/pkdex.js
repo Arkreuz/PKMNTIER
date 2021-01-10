@@ -5758,6 +5758,7 @@ var stunfisk ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
     },
     "icon": "<i class='pk stunfisk'></i>"
 }; pokemon.push(stunfisk);
