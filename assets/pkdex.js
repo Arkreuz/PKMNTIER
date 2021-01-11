@@ -6575,9 +6575,10 @@ var watchog ={
         "uber": true,
         "ou": true,
         "uu": true,
-        "ru": true,moodle
+        "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
 
     },
     "icon": "<i class='pk watchog'></i>"
