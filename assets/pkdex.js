@@ -6049,7 +6049,7 @@ var togedemaru ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "ZU": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk togedemaru'></i>"
@@ -6241,6 +6241,7 @@ var typhlosion ={
         "ru": true,
         "nu": true,
         "pu": false,
+        "zu": false,
 
     },
     "icon": "<i class='pk typhlosion'></i>"
