@@ -5269,6 +5269,7 @@ var scolipede ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk scolipede'></i>"
 }; pokemon.push(scolipede);
