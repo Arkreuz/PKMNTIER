@@ -5773,6 +5773,7 @@ var sudowoodo ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": true,
     },
     "icon": "<i class='pk sudowoodo'></i>"
 }; pokemon.push(sudowoodo);
