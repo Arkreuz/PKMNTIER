@@ -6690,6 +6690,7 @@ var wormadam_plant ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk wormadam-plant'></i>"
