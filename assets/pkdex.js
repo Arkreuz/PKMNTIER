@@ -6825,6 +6825,7 @@ var zebstrika ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "pu": true,
 
     },
     "icon": "<i class='pk zebstrika'></i>"
