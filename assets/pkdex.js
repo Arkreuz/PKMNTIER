@@ -6712,6 +6712,7 @@ var wormadam_sandy ={
         "ru": true,
         "nu": true,
         "pu": true,
+        "zu": false,
 
     },
     "icon": "<i class='pk wormadam-sandy'></i>"
