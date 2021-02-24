@@ -1045,11 +1045,7 @@ var   cloyster  ={
         "ru": true,
         "nu": false,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": false,
-        "epsilon": false,
-        "zeta": false,
+        "zu": false,
     },
     "icon": "<i class='pk cloyster'></i>"
 }; pokemon.push(cloyster);
