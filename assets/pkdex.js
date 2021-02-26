@@ -1417,6 +1417,7 @@ var   diggersby  ={
         "ru": false,
         "nu": false,
         "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk diggersby'></i>"
 }; pokemon.push(diggersby);
