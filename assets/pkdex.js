@@ -2903,7 +2903,7 @@ var   jynx  ={
         "nu": true,
         "pu": true,
         "zu": false,
-        "zu": true,
+      
 
     },
     "icon": "<i class='pk jynx'></i>"
