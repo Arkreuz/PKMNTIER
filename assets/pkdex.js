@@ -1195,11 +1195,7 @@ var   cryogonal  ={
         "ru": true,
         "nu": true,
         "pu": false,
-        "beta": true,
-        "gamma": true,
-        "delta": true,
-        "epsilon": true,
-        "zeta": false,
+        "zu": false,
     },
     "icon": "<i class='pk cryogonal'></i>"
 }; pokemon.push(cryogonal);
