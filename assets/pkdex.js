@@ -6906,3 +6906,17 @@ var zygarde_complete ={
     },
     "icon": "<i class='pk zygarde-complete'></i>"
 }; pokemon.push(zygarde_complete);
+
+var Cinderace ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Cinderace'></i>"
+}; pokemon.push(cinderace);
