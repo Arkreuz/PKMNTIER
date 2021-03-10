@@ -6920,3 +6920,17 @@ var Cinderace ={
     },
     "icon": "<i class='pk Cinderace'></i>"
 }; pokemon.push(cinderace);
+
+var Rillaboom ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Rillaboom'></i>"
+}; pokemon.push(Rillaboom);
