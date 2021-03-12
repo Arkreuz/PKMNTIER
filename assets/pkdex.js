@@ -6934,3 +6934,17 @@ var Rillaboom ={
     },
     "icon": "<i class='pk Rillaboom'></i>"
 }; pokemon.push(Rillaboom);
+
+var Inteleon ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Inteleon'></i>"
+}; pokemon.push(Inteleon);
