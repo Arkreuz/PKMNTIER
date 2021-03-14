@@ -6962,3 +6962,17 @@ var Zacian ={
     },
     "icon": "<i class='pk Zacian'></i>"
 }; pokemon.push(Zacian);
+
+var Zamazenta ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Zamazenta'></i>"
+}; pokemon.push(Zamazenta);
