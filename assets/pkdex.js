@@ -6976,3 +6976,18 @@ var Zamazenta ={
     },
     "icon": "<i class='pk Zamazenta'></i>"
 }; pokemon.push(Zamazenta);
+
+var Eternatus ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Eternatus'></i>"
+}; pokemon.push(Eternatus);
+
