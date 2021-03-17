@@ -6990,4 +6990,16 @@ var Eternatus ={
     },
     "icon": "<i class='pk Eternatus'></i>"
 }; pokemon.push(Eternatus);
+var Regieleki ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
 
+    },
+    "icon": "<i class='pk Regieleki'></i>"
+}; pokemon.push(Regieleki);
