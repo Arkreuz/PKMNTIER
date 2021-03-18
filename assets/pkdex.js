@@ -7003,3 +7003,16 @@ var Regieleki ={
     },
     "icon": "<i class='pk Regieleki'></i>"
 }; pokemon.push(Regieleki);
+var Regidrago ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Regidrago'></i>"
+}; pokemon.push(Regidrago);
