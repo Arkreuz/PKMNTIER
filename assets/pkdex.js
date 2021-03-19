@@ -7016,3 +7016,16 @@ var Regidrago ={
     },
     "icon": "<i class='pk Regidrago'></i>"
 }; pokemon.push(Regidrago);
+var Calyrex ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Calyrex'></i>"
+}; pokemon.push(Calyrex);
