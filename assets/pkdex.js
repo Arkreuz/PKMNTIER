@@ -7029,3 +7029,16 @@ var Calyrex ={
     },
     "icon": "<i class='pk Calyrex'></i>"
 }; pokemon.push(Calyrex);
+var Glastrier ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Glastrier'></i>"
+}; pokemon.push(Glastrier);
