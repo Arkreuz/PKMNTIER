@@ -7042,3 +7042,16 @@ var Glastrier ={
     },
     "icon": "<i class='pk Glastrier'></i>"
 }; pokemon.push(Glastrier);
+var Spectrier ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Spectrier'></i>"
+}; pokemon.push(Spectrier);
