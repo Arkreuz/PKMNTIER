@@ -6948,6 +6948,19 @@ var Inteleon ={
     },
     "icon": "<i class='pk Inteleon'></i>"
 }; pokemon.push(Inteleon);
+var Corviknight ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Corviknight'></i>"
+}; pokemon.push(Corviknight);
 
 var Zacian ={
     "metagame": {
