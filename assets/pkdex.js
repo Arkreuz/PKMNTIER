@@ -6962,6 +6962,20 @@ var Corviknight ={
     "icon": "<i class='pk Corviknight'></i>"
 }; pokemon.push(Corviknight);
 
+var Dubwool ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Dubwool'></i>"
+}; pokemon.push(Dubwool);
+
 var Zacian ={
     "metagame": {
         "uber": true,
