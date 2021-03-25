@@ -6975,6 +6975,19 @@ var Dubwool ={
     },
     "icon": "<i class='pk Dubwool'></i>"
 }; pokemon.push(Dubwool);
+var Centiskorch ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Centiskorch'></i>"
+}; pokemon.push(Centiskorch);
 
 var Zacian ={
     "metagame": {
