@@ -6988,6 +6988,19 @@ var Centiskorch ={
     },
     "icon": "<i class='pk Centiskorch'></i>"
 }; pokemon.push(Centiskorch);
+var Grimmsnarl ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Grimmsnarl'></i>"
+}; pokemon.push(Grimmsnarl);
 
 var Zacian ={
     "metagame": {
