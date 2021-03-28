@@ -6988,6 +6988,21 @@ var Centiskorch ={
     },
     "icon": "<i class='pk Centiskorch'></i>"
 }; pokemon.push(Centiskorch);
+
+var Toxtricity ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Toxtricity'></i>"
+}; pokemon.push(Toxtricity);
+
 var Grimmsnarl ={
     "metagame": {
         "uber": true,
