@@ -7019,6 +7019,20 @@ var Grimmsnarl ={
     "icon": "<i class='pk Grimmsnarl'></i>"
 }; pokemon.push(Grimmsnarl);
 
+var Hattarene ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Hattarene'></i>"
+}; pokemon.push(Hattarene);
+
 var Toxtricity ={
     "metagame": {
         "uber": true,
