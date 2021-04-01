@@ -6923,6 +6923,7 @@ var Cinderace ={
     "icon": "<i class='pk Cinderace'></i>"
 }; pokemon.push(cinderace);
 
+
 var Rillaboom ={
     "metagame": {
         "uber": true,
@@ -6963,6 +6964,20 @@ var Corviknight ={
     },
     "icon": "<i class='pk Corviknight'></i>"
 }; pokemon.push(Corviknight);
+
+var Polteageist ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Polteageist'></i>"
+}; pokemon.push(Polteageist);
 
 var Dubwool ={
     "metagame": {
