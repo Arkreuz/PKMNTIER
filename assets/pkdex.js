@@ -6962,8 +6962,19 @@ var Corviknight ={
         "zu": false,
 
     },
-    "icon": "<i class='pk Corviknight'></i>"
-}; pokemon.push(Corviknight);
+        var Thievul ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Thievul'></i>"
+}; pokemon.push(Thievul);
 
 var Polteageist ={
     "metagame": {
