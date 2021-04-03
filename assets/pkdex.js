@@ -7016,6 +7016,19 @@ var Centiskorch ={
     },
     "icon": "<i class='pk Centiskorch'></i>"
 }; pokemon.push(Centiskorch);
+var Orbeetle ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Orbeetle'></i>"
+}; pokemon.push(Orbeetle);
 
 var Toxtricity ={
     "metagame": {
