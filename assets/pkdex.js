@@ -7099,6 +7099,19 @@ var Toxtricity ={
     },
     "icon": "<i class='pk Toxtricity'></i>"
 }; pokemon.push(Toxtricity);
+var Duraludon ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Duraludon'></i>"
+}; pokemon.push(Duraludon);
 var Dragapult ={
     "metagame": {
         "uber": true,
@@ -7111,7 +7124,7 @@ var Dragapult ={
 
     },
     "icon": "<i class='pk Dragapult'></i>"
-}; pokemon.push(DragapuLt);
+}; pokemon.push(Dragapult);
 var Zacian ={
     "metagame": {
         "uber": true,
