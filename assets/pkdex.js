@@ -6821,7 +6821,7 @@ var zapdos ={
         "uber": true,
         "ou": true,
         "uu": false,
-        "ru": false,
+i        "ru": false,
         "nu": false,
         "pu": false,
         "zu": false,
@@ -7125,6 +7125,19 @@ var Dragapult ={
     },
     "icon": "<i class='pk Dragapult'></i>"
 }; pokemon.push(Dragapult);
+var Dracozolt ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Dracozolt'></i>"
+}; pokemon.push(Dracozolt);
 var Zacian ={
     "metagame": {
         "uber": true,
