@@ -7112,6 +7112,19 @@ var Duraludon ={
     },
     "icon": "<i class='pk Duraludon'></i>"
 }; pokemon.push(Duraludon);
+var Dracovish ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Dracovish'></i>"
+}; pokemon.push(Dracovish);
 var Dragapult ={
     "metagame": {
         "uber": true,
