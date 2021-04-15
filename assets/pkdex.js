@@ -7164,6 +7164,19 @@ var Arctozolt ={
     },
     "icon": "<i class='pk  Arctozolt'></i>"
 }; pokemon.push( Arctozolt);
+var Arctovish ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Arctovish'></i>"
+}; pokemon.push(Arctovish);
 var Zacian ={
     "metagame": {
         "uber": true,
