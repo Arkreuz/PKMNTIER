@@ -7111,6 +7111,19 @@ var Toxtricity ={
     },
     "icon": "<i class='pk Toxtricity'></i>"
 }; pokemon.push(Toxtricity);
+var Greedent ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Greedent'></i>"
+}; pokemon.push(Greedent);
 var Duraludon ={
     "metagame": {
         "uber": true,
