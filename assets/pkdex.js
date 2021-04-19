@@ -7057,7 +7057,19 @@ var Toxtricity ={
     },
     "icon": "<i class='pk Toxtricity'></i>"
 }; pokemon.push(Toxtricity);
+var Grapploct ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
 
+    },
+    "icon": "<i class='pk Grapploct'></i>"
+}; pokemon.push (Grapploct);
 var Grimmsnarl ={
     "metagame": {
         "uber": true,
