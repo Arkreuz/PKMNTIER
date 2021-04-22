@@ -7083,6 +7083,19 @@ var Grimmsnarl ={
     },
     "icon": "<i class='pk Grimmsnarl'></i>"
 }; pokemon.push(Grimmsnarl);
+var Obstagoon ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Obstagoonl'></i>"
+}; pokemon.push(Obstagoon);
 var Boltund ={
     "metagame": {
         "uber": true,
