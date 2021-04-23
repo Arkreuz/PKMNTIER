@@ -6990,6 +6990,21 @@ var Polteageist ={
     "icon": "<i class='pk Polteageist'></i>"
 }; pokemon.push(Polteageist);
 
+
+var Cursola ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Cursola'></i>"
+}; pokemon.push(Cursola);
+
 var Woolo ={
     "metagame": {
         "uber": true,
