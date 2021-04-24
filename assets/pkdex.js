@@ -7098,6 +7098,20 @@ var Grimmsnarl ={
     },
     "icon": "<i class='pk Grimmsnarl'></i>"
 }; pokemon.push(Grimmsnarl);
+var Indeedee ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Indeedee'></i>"
+}; pokemon.push(Indeedee);
+
 var Obstagoon ={
     "metagame": {
         "uber": true,
@@ -7109,8 +7123,10 @@ var Obstagoon ={
         "zu": false,
 
     },
-    "icon": "<i class='pk Obstagoonl'></i>"
+    "icon": "<i class='pk Obstagoon'></i>"
 }; pokemon.push(Obstagoon);
+
+
 var Boltund ={
     "metagame": {
         "uber": true,
@@ -7164,6 +7180,20 @@ var Greedent ={
     },
     "icon": "<i class='pk Greedent'></i>"
 }; pokemon.push(Greedent);
+var Eiscue ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Eiscue'></i>"
+}; pokemon.push(Eiscue);
+
 var Eiscue ={
     "metagame": {
         "uber": true,
