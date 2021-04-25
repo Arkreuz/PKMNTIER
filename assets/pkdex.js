@@ -7154,6 +7154,21 @@ var Hattarene ={
     "icon": "<i class='pk Hattarene'></i>"
 }; pokemon.push(Hattarene);
 
+
+var Toxcel ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Toxcel'></i>"
+}; pokemon.push(Toxcel);
+
 var Toxtricity ={
     "metagame": {
         "uber": true,
@@ -7167,6 +7182,7 @@ var Toxtricity ={
     },
     "icon": "<i class='pk Toxtricity'></i>"
 }; pokemon.push(Toxtricity);
+
 var Greedent ={
     "metagame": {
         "uber": true,
