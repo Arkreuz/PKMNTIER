@@ -7434,6 +7434,19 @@ var Spectrier ={
     },
     "icon": "<i class='pk Spectrier'></i>"
 }; pokemon.push(Spectrier);
+var Kubfu ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Kubfu'></i>"
+}; pokemon.push(Kubfu);
 var Urshifu ={
     "metagame": {
         "uber": true,
