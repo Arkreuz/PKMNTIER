@@ -6938,6 +6938,20 @@ var Rillaboom ={
     "icon": "<i class='pk Rillaboom'></i>"
 }; pokemon.push(Rillaboom);
 
+var Sobble ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Sobble'></i>"
+}; pokemon.push(Sobble);
+
 var Inteleon ={
     "metagame": {
         "uber": true,
