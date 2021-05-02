@@ -6924,6 +6924,20 @@ var Cinderace ={
 }; pokemon.push(cinderace);
 
 
+var Grookie ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Grookie'></i>"
+}; pokemon.push(Grookie); 
+
 var Rillaboom ={
     "metagame": {
         "uber": true,
