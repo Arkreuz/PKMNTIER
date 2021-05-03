@@ -7140,6 +7140,20 @@ var Indeedee ={
     "icon": "<i class='pk Indeedee'></i>"
 }; pokemon.push(Indeedee);
 
+var Linoone_Galar ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Linoone_Galar'></i>"
+}; pokemon.push(Linoone_Galar);
+
 var Obstagoon ={
     "metagame": {
         "uber": true,
