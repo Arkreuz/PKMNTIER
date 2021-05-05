@@ -7004,6 +7004,20 @@ var Corviknight ={
     "icon": "<i class='pk Thievul'></i>"
 }; pokemon.push(Thievul);
 
+var Sinistea ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Sinistea'></i>"
+}; pokemon.push (Sinistea);
+
 var Polteageist ={
     "metagame": {
         "uber": true,
