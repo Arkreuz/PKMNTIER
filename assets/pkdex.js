@@ -7333,7 +7333,7 @@ var Coalossal ={
     },
             "icon": "<i class='pk Coalossal'></i>"
 }; pokemon.push(Coalossal);
-var Pincurchin ={
+var Applin ={
     "metagame": {
         "uber": true,
         "ou": false,
@@ -7343,6 +7343,19 @@ var Pincurchin ={
         "pu": false,
         "zu": false,
 
+    },
+            "icon": "<i class='pk Applin'></i>"
+}; pokemon.push(Applin);
+
+var Pincurchin ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
     },
     "icon": "<i class='pk Pincurchin'></i>"
 }; pokemon.push(Pincurchin);
