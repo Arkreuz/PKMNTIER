@@ -6980,6 +6980,20 @@ var Sobble ={
     "icon": "<i class='pk Sobble'></i>"
 }; pokemon.push(Sobble);
 
+var Drizzile ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Drizzile'></i>"
+}; pokemon.push(Drizzile);
+
 var Inteleon ={
     "metagame": {
         "uber": true,
