@@ -6909,6 +6909,20 @@ var zygarde_complete ={
     "icon": "<i class='pk zygarde-complete'></i>"
 }; pokemon.push(zygarde_complete);
 
+var Raboot ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+            "icon": "<i class='pk Raboot'></i>"
+}; pokemon.push(Raboot);
+
 var Cinderace ={
     "metagame": {
         "uber": true,
@@ -7294,19 +7308,7 @@ var Eiscue ={
     "icon": "<i class='pk Eiscue'></i>"
 }; pokemon.push(Eiscue);
 
-var Eiscue ={
-    "metagame": {
-        "uber": true,
-        "ou": false,
-        "uu": false,
-        "ru": false,
-        "nu": false,
-        "pu": false,
-        "zu": false,
 
-    },
-    "icon": "<i class='pk Eiscue'></i>"
-}; pokemon.push(Eiscue);
 
 var Duraludon ={
     "metagame": {
