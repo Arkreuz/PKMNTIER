@@ -7268,6 +7268,19 @@ var Hatenna ={
     "icon": "<i class='pk Hatennae'></i>"
 }; pokemon.push(Hatenna);
 
+varHattrem ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Hattrem'></i>"
+}; pokemon.push(Hattrem);
 
 
 var Hattarene ={
