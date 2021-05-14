@@ -6921,7 +6921,7 @@ var Scorbunny ={
 
     },
             "icon": "<i class='pk Scorbunny'></i>"
-}; pokemon.push(Scorbunny);
+}; pokemon.push(Scorbunmy);
 
 var Raboot ={
     "metagame": {
@@ -7251,7 +7251,25 @@ var Boltund ={
 
     },
     "icon": "<i class='pk Boltund'></i>"
-}; pokemon.push(Boltund)
+}; pokemon.push(Boltund);
+
+
+var Hatenna ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Hatennae'></i>"
+}; pokemon.push(Hatenna);
+
+
+
 var Hattarene ={
     "metagame": {
         "uber": true,
