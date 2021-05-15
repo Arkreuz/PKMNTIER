@@ -7183,6 +7183,24 @@ var Clobbopus ={
     },
     "icon": "<i class='pk Clobbopus'></i>"
 }; pokemon.push (Clobbopus);
+
+
+
+
+var Morgrem ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Morgrem'></i>"
+}; pokemon.push(Morgrem);
+
 var Grimmsnarl ={
     "metagame": {
         "uber": true,
