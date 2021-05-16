@@ -7185,6 +7185,19 @@ var Clobbopus ={
 }; pokemon.push (Clobbopus);
 
 
+var Impidimp ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Impidimp'></i>"
+}; pokemon.push(Impidimp);
 
 
 var Morgrem ={
