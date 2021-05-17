@@ -7270,6 +7270,20 @@ var Obstagoon ={
 }; pokemon.push(Obstagoon);
 
 
+var Yamper ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Yamper'></i>"
+}; pokemon.push(Yamper);
+
 var Boltund ={
     "metagame": {
         "uber": true,
