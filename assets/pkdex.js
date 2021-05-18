@@ -7143,6 +7143,23 @@ var Centiskorch ={
     },
     "icon": "<i class='pk Centiskorch'></i>"
 }; pokemon.push(Centiskorch);
+
+
+
+var Perrserker ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Perrserker'></i>"
+}; pokemon.push(Perrserker);
+
 var Orbeetle ={
     "metagame": {
         "uber": true,
