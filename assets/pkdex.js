@@ -7360,6 +7360,20 @@ var Hattarene ={
 }; pokemon.push(Hattarene);
 
 
+var Drednaw ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Drednaw'></i>"
+}; pokemon.push(Drednaw);
+
 var Toxcel ={
     "metagame": {
         "uber": true,
