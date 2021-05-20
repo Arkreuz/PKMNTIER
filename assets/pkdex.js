@@ -10,7 +10,7 @@ var abomasnow = {
         "pu": true,
         "zu": true
 
-    },
+    }
     "icon": "<i class='pk abomasnow img-responsive'></i>"
 };pokemon.push(abomasnow);
 var abomasnow_mega = {
@@ -7509,6 +7509,25 @@ var Dracovish ={
     },
     "icon": "<i class='pk Dracovish'></i>"
 }; pokemon.push(Dracovish);
+
+
+
+var Barraskewda ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Barraskewda'></i>"
+}; pokemon.push(Barraskewda);
+
+
+
 var Dragapult ={
     "metagame": {
         "uber": true,
