@@ -7484,6 +7484,21 @@ var Applin ={
             "icon": "<i class='pk Applin'></i>"
 }; pokemon.push(Applin);
 
+
+var Flapple ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+            "icon": "<i class='pk Flapple'></i>"
+}; pokemon.push(Flapple);
+
 var Pincurchin ={
     "metagame": {
         "uber": true,
