@@ -7756,3 +7756,18 @@ var Falinks ={
     },
     "icon": "<i class='pk  Falinks'></i>"
 }; pokemon.push(Falinks);
+
+
+var Mr. Rime ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Mr. Rime'></i>"
+}; pokemon.push(Mr. Rime);
