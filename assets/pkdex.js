@@ -7771,3 +7771,18 @@ var Mr. Rime ={
     },
     "icon": "<i class='pk  Mr. Rime'></i>"
 }; pokemon.push(Mr. Rime);
+
+
+var Snom ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Snom'></i>"
+}; pokemon.push(Snom);
