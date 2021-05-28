@@ -7801,3 +7801,17 @@ var Sirfetch'd ={
     },
     "icon": "<i class='pk  Sirfetch'd'></i>"
 }; pokemon.push(Sirfetch'd);
+
+var Meltan ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Meltan'></i>"
+}; pokemon.push(Meltan);
