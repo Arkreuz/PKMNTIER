@@ -7858,3 +7858,17 @@ var Silicobra ={
     },
     "icon": "<i class='pk Silicobra'></i>"
 }; pokemon.push(Silicobra);
+
+var bulbasaur ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk bulbasaur'></i>"
+}; pokemon.push(bulbasaur);
