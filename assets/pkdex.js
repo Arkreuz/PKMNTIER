@@ -7872,3 +7872,18 @@ var bulbasaur ={
     },
     "icon": "<i class='pk bulbasaur'></i>"
 }; pokemon.push(bulbasaur);
+
+
+var ivysaur ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk ivysaur'></i>"
+}; pokemon.push(ivysaur);
