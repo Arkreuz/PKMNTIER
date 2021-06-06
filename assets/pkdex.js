@@ -7887,3 +7887,17 @@ var ivysaur ={
     },
     "icon": "<i class='pk ivysaur'></i>"
 }; pokemon.push(ivysaur);
+
+var Charmander ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Charmander'></i>"
+}; pokemon.push(Charmander);
