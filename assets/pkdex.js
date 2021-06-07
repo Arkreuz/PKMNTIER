@@ -7901,3 +7901,17 @@ var Charmander ={
     },
     "icon": "<i class='pk Charmander'></i>"
 }; pokemon.push(Charmander);
+
+var Charmeleon ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Charmeleon'></i>"
+}; pokemon.push(Charmeleon);
