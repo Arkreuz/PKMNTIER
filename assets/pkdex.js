@@ -7929,3 +7929,18 @@ var Squirtle ={
     },
     "icon": "<i class='pk Squirtle'></i>"
 }; pokemon.push(Squirtle);
+
+
+var Wartortle ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Wartortle'></i>"
+}; pokemon.push(Wartortle);
