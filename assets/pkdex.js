@@ -7944,3 +7944,17 @@ var Wartortle ={
     },
     "icon": "<i class='pk Wartortle'></i>"
 }; pokemon.push(Wartortle);
+
+var Caterpie ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Caterpie'></i>"
+}; pokemon.push(Caterpie);
