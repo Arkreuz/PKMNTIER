@@ -7958,3 +7958,18 @@ var Caterpie ={
     },
     "icon": "<i class='pk Caterpie'></i>"
 }; pokemon.push(Caterpie);
+
+
+var Metapod ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Metapod'></i>"
+}; pokemon.push(Metapod);
