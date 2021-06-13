@@ -7988,3 +7988,17 @@ var Weedle ={
     },
     "icon": "<i class='pk Weedle'></i>"
 }; pokemon.push(Weedle);
+
+var Kakuna ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Kakuna'></i>"
+}; pokemon.push(Kakuna);
