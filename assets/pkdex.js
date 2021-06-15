@@ -8002,3 +8002,17 @@ var Kakuna ={
     },
     "icon": "<i class='pk Kakuna'></i>"
 }; pokemon.push(Kakuna);
+
+var Rattata ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Rattata'></i>"
+}; pokemon.push Rattata);
