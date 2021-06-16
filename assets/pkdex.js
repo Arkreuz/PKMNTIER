@@ -8016,3 +8016,18 @@ var Rattata ={
     },
     "icon": "<i class='pk  Rattata'></i>"
 }; pokemon.push Rattata);
+
+
+var Pidgey ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Pidgey'></i>"
+}; pokemon.push Pidgey);
