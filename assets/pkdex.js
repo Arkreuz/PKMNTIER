@@ -8045,3 +8045,17 @@ var Pidgeotto ={
     },
     "icon": "<i class='pk  Pidgeotto'></i>"
 }; pokemon.push (Pidgeotto);
+
+var Spearow ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Spearow'></i>"
+}; pokemon.push (Spearow);
