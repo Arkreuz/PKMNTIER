@@ -8073,3 +8073,17 @@ var Sandshrew ={
     },
     "icon": "<i class='pk Sandshrew'></i>"
 }; pokemon.push (Sandshrew);
+
+var Nidorina ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Nidorina'></i>"
+}; pokemon.push (Nidorina);
