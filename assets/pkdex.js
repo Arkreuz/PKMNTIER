@@ -8087,3 +8087,17 @@ var Nidorina ={
     },
     "icon": "<i class='pk Nidorina'></i>"
 }; pokemon.push (Nidorina);
+
+var Nidorino ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Nidorino'></i>"
+}; pokemon.push (Nidorino);
