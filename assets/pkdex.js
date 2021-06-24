@@ -8101,3 +8101,17 @@ var Nidorino ={
     },
     "icon": "<i class='pk Nidorino'></i>"
 }; pokemon.push (Nidorino);
+
+var Nidoran-Male ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Nidoran-Male'></i>"
+}; pokemon.push ( Nidoran-Male);
