@@ -8114,4 +8114,18 @@ var Nidoran-Male ={
 
     },
     "icon": "<i class='pk  Nidoran-Male'></i>"
-}; pokemon.push ( Nidoran-Male);
+}; pokemon.push (Nidoran-Male);
+
+var Nidoran-Female ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Nidoran-Female'></i>"
+}; pokemon.push (Nidoran-Female);
