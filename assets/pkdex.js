@@ -8129,3 +8129,17 @@ var Nidoran-Female ={
     },
     "icon": "<i class='pk  Nidoran-Female'></i>"
 }; pokemon.push (Nidoran-Female);
+
+var Vulpix ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Vulpix'></i>"
+}; pokemon.push (Vulpix);
