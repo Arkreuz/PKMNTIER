@@ -8143,3 +8143,17 @@ var Vulpix ={
     },
     "icon": "<i class='pk  Vulpix'></i>"
 }; pokemon.push (Vulpix);
+
+var Vulpix-Alola ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Vulpix-Alola'></i>"
+}; pokemon.push (Vulpix-Alola);
