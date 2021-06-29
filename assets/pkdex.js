@@ -8157,3 +8157,17 @@ var Vulpix-Alola ={
     },
     "icon": "<i class='pk  Vulpix-Alola'></i>"
 }; pokemon.push (Vulpix-Alola);
+
+var Sandshrew-Alola ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Sandshrew-Alola'></i>"
+}; pokemon.push (Sandshrew-Alola);
