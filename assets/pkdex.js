@@ -8185,3 +8185,17 @@ var Poliwag ={
     },
     "icon": "<i class='pk  Poliwag'></i>"
 }; pokemon.push (Poliwag);
+
+var Poliwhirl ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Poliwhirl'></i>"
+}; pokemon.push (Poliwhirl);
