@@ -8199,3 +8199,17 @@ var Poliwhirl ={
     },
     "icon": "<i class='pk  Poliwhirl'></i>"
 }; pokemon.push (Poliwhirl);
+
+var Tentacool ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Tentacool'></i>"
+}; pokemon.push (Tentacool);
