@@ -8213,3 +8213,17 @@ var Tentacool ={
     },
     "icon": "<i class='pk  Tentacool'></i>"
 }; pokemon.push (Tentacool);
+
+var Mankey ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Mankey'></i>"
+}; pokemon.push (Mankey);
