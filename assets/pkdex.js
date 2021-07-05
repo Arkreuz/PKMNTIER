@@ -8227,3 +8227,17 @@ var Mankey ={
     },
     "icon": "<i class='pk  Mankey'></i>"
 }; pokemon.push (Mankey);
+
+var Growlithe ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Growlithe'></i>"
+}; pokemon.push (Growlithe);
