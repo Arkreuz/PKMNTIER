@@ -8269,3 +8269,17 @@ var Psyduck ={
     },
     "icon": "<i class='pk  Psyduck'></i>"
 }; pokemon.push (Psyduck);
+
+var Meowth ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Meowth'></i>"
+}; pokemon.push (Meowth);
