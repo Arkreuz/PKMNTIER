@@ -8297,3 +8297,17 @@ var Meowth-Alola ={
     },
     "icon": "<i class='pk  Meowth-Alola'></i>"
 }; pokemon.push (Meowth-Alola);
+
+var Meowth-Galar ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Meowth-Galar'></i>"
+}; pokemon.push (Meowth-Galar);
