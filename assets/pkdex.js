@@ -8311,3 +8311,17 @@ var Meowth-Galar ={
     },
     "icon": "<i class='pk  Meowth-Galar'></i>"
 }; pokemon.push (Meowth-Galar);
+
+var Geodude ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk  Geodude'></i>"
+}; pokemon.push (Geodude);
