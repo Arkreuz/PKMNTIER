@@ -8338,4 +8338,18 @@ var Geodude-Alola ={
 
     },
     "icon": "<i class='pk Geodude-Alola'></i>"
-}; pokemon.push (Geodude-Alo,a);
+}; pokemon.push (Geodude-Alola);
+
+var Graveler-Alola ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Graveler-Alola'></i>"
+}; pokemon.push (Graveler-Alola);
