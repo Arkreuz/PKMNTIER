@@ -8367,3 +8367,17 @@ var Graveler-Galar ={
     },
     "icon": "<i class='pk Graveler-Galar'></i>"
 }; pokemon.push (Graveler-Galar);
+
+var Ledyba ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Ledyba'></i>"
+}; pokemon.push (Ledyba);
