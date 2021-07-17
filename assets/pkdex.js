@@ -8381,3 +8381,17 @@ var Ledyba ={
     },
     "icon": "<i class='pk Ledyba'></i>"
 }; pokemon.push (Ledyba);
+
+var Spinarak ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Spinarak'></i>"
+}; pokemon.push (Spinarak);
