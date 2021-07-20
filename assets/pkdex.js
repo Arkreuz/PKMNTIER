@@ -8423,3 +8423,17 @@ var Rhyhorn ={
     },
     "icon": "<i class='pk  Rhyhorn'></i>"
 }; pokemon.push (Rhyhorn);
+
+var Executte ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Executte'></i>"
+}; pokemon.push (Executte);
