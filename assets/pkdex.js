@@ -8437,3 +8437,17 @@ var Executte ={
     },
     "icon": "<i class='pk Executte'></i>"
 }; pokemon.push (Executte);
+
+var Tangela ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Tangela'></i>"
+}; pokemon.push (Tangela);
