@@ -8464,4 +8464,18 @@ var Sunkern ={
 
     },
     "icon": "<i class='pk Sunkern'></i>"
-}; pokemon.push (Sunken);
+}; pokemon.push (Sunkern);
+
+var Hoppip ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Hoppip'></i>"
+}; pokemon.push (Hoppip);
