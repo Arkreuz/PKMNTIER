@@ -8479,3 +8479,17 @@ var Hoppip ={
     },
     "icon": "<i class='pk Hoppip'></i>"
 }; pokemon.push (Hoppip);
+
+var Skiploom ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk Skiploom'></i>"
+}; pokemon.push (Skiploom);
