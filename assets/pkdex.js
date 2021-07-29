@@ -8492,9 +8492,9 @@ var Skiploom ={
 
     },
     "icon": "<i class='pk Skiploom'></i>"
-}; pokemon.push (Bonsly);
+}; pokemon.push (Skiploom);
 
-var Skiploom ={
+var Bonsly ={
     "metagame": {
         "uber": true,
         "ou": false,
@@ -8505,5 +8505,5 @@ var Skiploom ={
         "zu": false,
 
     },
-    "icon": "<i class='pk (Bonsly'></i>"
-}; pokemon.push ((Bonsly);
+    "icon": "<i class='pk ('pk Bonsly'></i>"
+}; pokemon.push (Bonsly);
