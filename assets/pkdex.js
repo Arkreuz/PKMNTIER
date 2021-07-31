@@ -8507,3 +8507,17 @@ var Bonsly ={
     },
     "icon": "<i class='pk ('pk Bonsly'></i>"
 }; pokemon.push (Bonsly);
+
+var Mantyke ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk ('pk Mantyke'></i>"
+}; pokemon.push (Mantyke);
