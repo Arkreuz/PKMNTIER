@@ -8577,3 +8577,17 @@ var Venonat ={
     },
     "icon": "<i class='pk ('pk Venonat'></i>"
 }; pokemon.push  (Venonat);
+
+var Paras ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk ('pk Paras'></i>"
+}; pokemon.push  (Paras);
