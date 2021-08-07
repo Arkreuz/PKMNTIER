@@ -8591,3 +8591,17 @@ var Paras ={
     },
     "icon": "<i class='pk ('pk Paras'></i>"
 }; pokemon.push  (Paras);
+
+var Rhyhorn ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk ('pk Rhyhorn'></i>"
+}; pokemon.push  (Rhyhorn);
