@@ -8647,3 +8647,17 @@ var Mareep ={
     },
     "icon": "<i class='pk ('pk Mareep'></i>"
 }; pokemon.push  (Mareep);
+
+var Flaaffy ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk ('pk Flaaffy'></i>"
+}; pokemon.push  (Flaaffy);
