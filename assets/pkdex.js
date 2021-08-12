@@ -8661,3 +8661,17 @@ var Flaaffy ={
     },
     "icon": "<i class='pk ('pk Flaaffy'></i>"
 }; pokemon.push  (Flaaffy);
+
+var Onix ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk ('pk Onix'></i>"
+}; pokemon.push  (Onix);
