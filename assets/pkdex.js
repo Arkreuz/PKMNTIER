@@ -8675,3 +8675,17 @@ var Onix ={
     },
     "icon": "<i class='pk ('pk Onix'></i>"
 }; pokemon.push  (Onix);
+
+var Kabuto ={
+    "metagame": {
+        "uber": true,
+        "ou": false,
+        "uu": false,
+        "ru": false,
+        "nu": false,
+        "pu": false,
+        "zu": false,
+
+    },
+    "icon": "<i class='pk ('pk Kabuto'></i>"
+}; pokemon.push  (Kabuto);
